@@ -4,6 +4,22 @@
         <title>Dimple</title>
         <item>
             <title>1.1.3</title>
+            <pubDate>Mon, 05 Oct 2026 11:49:35 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1101032</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>재생 표시 정확도 · 최적화</h3><p><b>개선</b></p><li>배터리 · CPU 절약 — 음악 정보가 그대로면 노치를 다시 그리지 않고, 알림 배너 감시를 1초마다 읽는 방식에서 알림이 뜰 때만 읽는 방식으로 바꿨어요. 클립보드 · 밝기 확인 간격도 늘리고, 타이머를 macOS가 묶어서 처리하게 해 쉬는 동안 깨어나는 횟수를 줄였어요</li><p><b>버그 수정</b></p><li>크롬에서 유튜브를 보다가 창을 닫으면, 멈춰 있던 다른 앱(음악 등)이 있을 때 노치에 크롬 영상이 계속 &#x27;재생 중&#x27;으로 남던 문제 — 이제 그 앱이 실제로 소리를 내고 있는지 확인해서, 9초 넘게 소리가 없으면 멈춤으로 바꾸고 실제 재생 앱을 보여 줘요</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b2/Dimple-1.1.3-b2.zip" length="9478785" type="application/octet-stream" sparkle:edSignature="w5PTESm9qRmQv408YhKHHOBikyaRXCPcCEEVyimBI7XA2TC8UMAyxeMaTGcFF6Q7L0xn5JacOaBUYgSKAqXdCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b2/Dimple1101032-1101031.delta" sparkle:deltaFrom="1101031" length="205870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="cvylzp1K/OvSQpoXM2SE4WVQz3CSWdqa981UXWLEGGVEQA/RQcS5PxjyOsBBZIp/rTfCtZdOv6OWm4x032YmDg=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b2/Dimple1101032-1101029.delta" sparkle:deltaFrom="1101029" length="216974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="zo/cuav1dLe/yymzBTZ7p0KJLSw+1yu8yO2Pq3G+lwh7UVzRe4TgCYYq9aqXf/xdghlr4ev4FqruKcaXhSrsDA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b2/Dimple1101032-1101014.delta" sparkle:deltaFrom="1101014" length="216742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="T1dDQ0OwZ9wAupn7+xLtf1nc6Y1irQUsP7b/aTjsKdSz8UEhgPn6uDw3CkZQvE/gZcGSEiWUKFAfBTAK9/7UBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.1.3</title>
             <pubDate>Mon, 05 Oct 2026 11:42:05 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1101031</sparkle:version>
@@ -11,7 +27,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<ul><h3>재생 표시 정확도</h3><p><b>버그 수정</b></p><li>크롬에서 유튜브를 보다가 창을 닫으면, 멈춰 있던 다른 앱(음악 등)이 있을 때 노치에 크롬 영상이 계속 &#x27;재생 중&#x27;으로 남던 문제 — 이제 그 앱이 실제로 소리를 내고 있는지 확인해서, 9초 넘게 소리가 없으면 멈춤으로 바꾸고 실제 재생 앱을 보여 줘요</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b1/Dimple-1.1.3-b1.zip" length="9476259" type="application/octet-stream" sparkle:edSignature="OvaWkMLHaxKK3kfhsgrCfBNfW5CYikkJighOFTpJecX2POSxqUQKkFGB6rqciZ7gbG0P+7Gb7iHJqoklKE3dDg=="/>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b2/Dimple-1.1.3-b1.zip" length="9476259" type="application/octet-stream" sparkle:edSignature="OvaWkMLHaxKK3kfhsgrCfBNfW5CYikkJighOFTpJecX2POSxqUQKkFGB6rqciZ7gbG0P+7Gb7iHJqoklKE3dDg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b1/Dimple1101031-1101029.delta" sparkle:deltaFrom="1101029" length="156730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="0WdAgi/sXtr9PbjP0O8s8rZCYpMj6pM8bM6sznGlbPSwN/VY/YaKwUiAGixrf22fzeiuEXsvex2WQXMrgSsMBA=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b1/Dimple1101031-1101014.delta" sparkle:deltaFrom="1101014" length="157386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="M13xEIzpVN7a4yEGkFtrMBgA9VUPJduNj2jZno6evAI0H0KEOZ0YIaLt6KKoSHAxGxlQmhUgJgWPnKkzgTF8CQ=="/>
@@ -26,11 +42,11 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<ul><h3>노치에 흐린 앨범 커버</h3><p><b>새 기능</b></p><li>노치에도 흐린 앨범 커버 배경 — 음악이 노치에 떠 있을 때(라이브 액티비티 · 퀵픽 · 곡 변경 알림) 노치 뒤에 앨범 커버를 흐리게 깔 수 있어요. 설정 &gt; 라이브 액티비티에서 켜고 끌 수 있어요 (기본 꺼짐)</li><p><b>개선</b></p><li>설정 창 위치 · 크기를 기억해 업데이트 · 재시작 뒤에도 마지막 자리 그대로 열려요</li><li>유튜브 쇼츠 · 인스타 릴스처럼 짧은 영상을 넘길 때는 곡 변경 알림을 띄우지 않아요 (#shorts 등이 붙은 제목, 65초 이하 영상, 25초 안에 다음 영상으로 넘어갈 때)</li><li>미디어 플레이어의 흐린 앨범 커버 배경 켜기/끄기를 설정 &gt; Bag 첫 화면에서도 바로 바꿀 수 있어요 (설정 검색 &#x27;앨범 커버&#x27;로도 찾을 수 있어요)</li><p><b>버그 수정</b></p><li>노치에서 일시정지를 눌렀는데 멈춰 있던 다른 앱(음악 등)의 노래가 재생되던 문제 — 이제 &#x27;정지&#x27;와 &#x27;재생&#x27;을 구분해 노치에 보이는 앱에만 보내요 (다음 곡 · 이전 곡 · 위치 이동도 마찬가지)</li><li>사파리 · 크롬에서 음악 · 영상을 틀다가 창을 닫거나 앱을 종료해도 노치에 계속 &#x27;재생 중&#x27;으로 남던 문제 — 재생하던 앱이 꺼지면 바로 지우고, 닫힌 탭의 오래된 정보로 되돌아가지 않아요</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b1/Dimple-1.1.2.zip" length="9474247" type="application/octet-stream" sparkle:edSignature="SF7+3btgKYI0bKfnz9evdHMPHaGgGyyZRN7bFe0VbkQ1fDjq++Bvc7JYA7wbPZQoQVMAv3W4SYneFuaA+ffaBA=="/>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b2/Dimple-1.1.2.zip" length="9474247" type="application/octet-stream" sparkle:edSignature="SF7+3btgKYI0bKfnz9evdHMPHaGgGyyZRN7bFe0VbkQ1fDjq++Bvc7JYA7wbPZQoQVMAv3W4SYneFuaA+ffaBA=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b1/Dimple1101029-1101014.delta" sparkle:deltaFrom="1101014" length="4986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="54sQ6Cso3+wNIR8p5PYBfx2kNOTL2/JK35dVEnB921njQXEb0zgKodVWn1IWhPvIoxCGulYOh9g9sOVy7dp2Ag=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b1/Dimple1101029-1101013.delta" sparkle:deltaFrom="1101013" length="169838" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="jpeJhXIz6xnrehjyxGXs8hjruaREYydWsACOFRnsEWVksd5Kb5lWsKykZx0Lb/bqIc0zhzEHlC1UDyH/N+67CA=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b1/Dimple1101029-1101012.delta" sparkle:deltaFrom="1101012" length="227114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="THZ15uBK2/mxbuxkIzwGjKucqk5JizKIlUbEIbIHscuxlRxAUII0HrbaoOAd+LHgHedrd03G+X1izci/LLQiAQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b2/Dimple1101029-1101014.delta" sparkle:deltaFrom="1101014" length="4986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="54sQ6Cso3+wNIR8p5PYBfx2kNOTL2/JK35dVEnB921njQXEb0zgKodVWn1IWhPvIoxCGulYOh9g9sOVy7dp2Ag=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b2/Dimple1101029-1101013.delta" sparkle:deltaFrom="1101013" length="169838" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="jpeJhXIz6xnrehjyxGXs8hjruaREYydWsACOFRnsEWVksd5Kb5lWsKykZx0Lb/bqIc0zhzEHlC1UDyH/N+67CA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b2/Dimple1101029-1101012.delta" sparkle:deltaFrom="1101012" length="227114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="THZ15uBK2/mxbuxkIzwGjKucqk5JizKIlUbEIbIHscuxlRxAUII0HrbaoOAd+LHgHedrd03G+X1izci/LLQiAQ=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -42,7 +58,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<ul><h3>노치에 흐린 앨범 커버</h3><p><b>새 기능</b></p><li>노치에도 흐린 앨범 커버 배경 — 음악이 노치에 떠 있을 때(라이브 액티비티 · 퀵픽 · 곡 변경 알림) 노치 뒤에 앨범 커버를 흐리게 깔 수 있어요. 설정 &gt; 라이브 액티비티에서 켜고 끌 수 있어요 (기본 꺼짐)</li><p><b>개선</b></p><li>설정 창 위치 · 크기를 기억해 업데이트 · 재시작 뒤에도 마지막 자리 그대로 열려요</li><li>베타 버전 표시에 몇 번째 베타인지 함께 보여요 (예: 1.1.1(b3))</li><li>유튜브 쇼츠 · 인스타 릴스처럼 짧은 영상을 넘길 때는 곡 변경 알림을 띄우지 않아요 (#shorts 등이 붙은 제목, 65초 이하 영상, 25초 안에 다음 영상으로 넘어갈 때)</li><li>미디어 플레이어의 흐린 앨범 커버 배경 켜기/끄기를 설정 &gt; Bag 첫 화면에서도 바로 바꿀 수 있어요 (설정 검색 &#x27;앨범 커버&#x27;로도 찾을 수 있어요)</li><p><b>버그 수정</b></p><li>노치에서 일시정지를 눌렀는데 멈춰 있던 다른 앱(음악 등)의 노래가 재생되던 문제 — 이제 &#x27;정지&#x27;와 &#x27;재생&#x27;을 구분해 노치에 보이는 앱에만 보내요 (다음 곡 · 이전 곡 · 위치 이동도 마찬가지)</li><li>사파리 · 크롬에서 음악 · 영상을 틀다가 창을 닫거나 앱을 종료해도 노치에 계속 &#x27;재생 중&#x27;으로 남던 문제 — 재생하던 앱이 꺼지면 바로 지우고, 닫힌 탭의 오래된 정보로 되돌아가지 않아요</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b1/Dimple-1.1.1-b4.zip" length="9474254" type="application/octet-stream" sparkle:edSignature="jvqaDu+SUymwD/zD+chJ8ppMC3GfuM+UEdEMl7vCLYOp0Tb0E+n9GOb9uEfnR7MJ3kR0HJj/B3j3cPscJIkbBg=="/>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b2/Dimple-1.1.1-b4.zip" length="9474254" type="application/octet-stream" sparkle:edSignature="jvqaDu+SUymwD/zD+chJ8ppMC3GfuM+UEdEMl7vCLYOp0Tb0E+n9GOb9uEfnR7MJ3kR0HJj/B3j3cPscJIkbBg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.2/Dimple1101014-1101013.delta" sparkle:deltaFrom="1101013" length="169806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="eZn+0USY1+WkpXvN1GiWCViL86F0Lh3lewAC4OTq2vshJrWr9NzR42FsYLlCjQdrywZNw8kLRzBpHm4BO2w5Bg=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.2/Dimple1101014-1101012.delta" sparkle:deltaFrom="1101012" length="227042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="gFl3GOOMtqf4AxzkgP04hWJ2AlUMYWqUp2VtEv6K9nwY0Zu8Jcg7BGm+LxVlKwhq05AeiCxNT5NWNU2nOU1iCw=="/>
@@ -57,7 +73,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<ul><h3>전체 화면 숨김 · 파일 끌어 놓기 개선</h3><p><b>개선</b></p><li>파일을 끌어 노치로 가져갈 때 더 멀리서(노치 아래 약 260pt) Bag이 열려요</li><li>Bag 맨 위 줄에 파일을 놓아도 트레이에 보관 — 놓을 자리가 주황색으로 표시돼요</li><p><b>버그 수정</b></p><li>&#x27;전체 화면에서 표시&#x27;를 &#x27;노치가 있는 화면에서만&#x27;(기본) 또는 &#x27;표시 안 함&#x27;으로 두어도 노치 없는 화면(외장 모니터 · 노치 없는 MacBook)에서 영상 등을 전체 화면으로 볼 때 노치가 계속 떠 있던 문제 — 이제 전체 화면 동안 숨겨요</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b1/Dimple-1.1.0.zip" length="9456711" type="application/octet-stream" sparkle:edSignature="oY0m6MFJnOQXqzB3Q+SYK4ubQOcp9ceHT+Ae4R1JWuT5a4gjlhGxWAzoriIPto1WT5+hx8yQO2ZK9wTG/IwkBQ=="/>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b2/Dimple-1.1.0.zip" length="9456711" type="application/octet-stream" sparkle:edSignature="oY0m6MFJnOQXqzB3Q+SYK4ubQOcp9ceHT+Ae4R1JWuT5a4gjlhGxWAzoriIPto1WT5+hx8yQO2ZK9wTG/IwkBQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.1-b4/Dimple1101009-1100019.delta" sparkle:deltaFrom="1100019" length="195826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="p3f86Eh9xiFi/m+iUTbHDanYUarH5cF4qnsA9NnS9bVGeIOVsKK55u5+IILdvcJrwBedE9lZBLjngMCVf2UKDw=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.1-b4/Dimple1101009-1100009.delta" sparkle:deltaFrom="1100009" length="280954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="24ax/bctmFyeApRyhOZBxU9MRKOO2qIgyOKSyV6ReQ21Gs1sT9si6RtfMhCSokBmfJZk3VO69DdVAF66GrEQBg=="/>
@@ -71,7 +87,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<ul><h3>다른 Mac 실행 문제 수정</h3><p><b>버그 수정</b></p><li>개발에 쓰지 않은 Mac에서 Dimple을 열면 아무것도 뜨지 않고 바로 꺼지던 문제 — 앱 안의 리소스(메뉴 막대 아이콘 등)를 찾는 위치를 바로잡았어요</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b1/Dimple-1.0.1.zip" length="9454071" type="application/octet-stream" sparkle:edSignature="wQ+IkfewYbJFWrW5Q9W0MOA9izW1/VHc7m6HdkACjTb5ptJpo4POm+fMSHRxl0O56PEUNUC/0Rf4NgF2CRbrCQ=="/>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.1.3-b2/Dimple-1.0.1.zip" length="9454071" type="application/octet-stream" sparkle:edSignature="wQ+IkfewYbJFWrW5Q9W0MOA9izW1/VHc7m6HdkACjTb5ptJpo4POm+fMSHRxl0O56PEUNUC/0Rf4NgF2CRbrCQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.0.1/Dimple1100019-1100009.delta" sparkle:deltaFrom="1100009" length="255726" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="jZ69CQto9EIzJ0Ixtd6JFK6VS33BhgwxJrhtr5kA+yqlyq7DTrT/fV14XPIpkuXW5riXYvtXCAuxisu5NbwGAQ=="/>
             </sparkle:deltas>
