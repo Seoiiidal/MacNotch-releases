@@ -4,6 +4,22 @@
         <title>Dimple</title>
         <item>
             <title>1.2.0</title>
+            <pubDate>Wed, 14 Oct 2026 17:12:32 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1102007</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>가사 보기에 앨범 커버 · 테마 통일 · 글래스 효과 조절</h3><p><b>개선</b></p><li>Bag 미디어 플레이어에서 가사를 볼 때도 왼쪽 위에 앨범 커버가 보여요 — 비어 있던 윗공간을 채우고, 누르면 음악 앱이 열려요</li><li>설정 &gt; 일반에서 고른 노치 스타일이 Bag에도 그대로 — 글래스를 고르면 Bag도 같은 유리 느낌으로, 화이트를 고르면 Bag 카드도 화이트에 맞춰 보여요</li><li>글래스 효과를 0% ~ 100%로 조절 — 100%면 Apple Liquid Glass의 투명(Clear) 유리처럼 완전히 비쳐요</li><li>솔리드는 노치에서 고른 색 그대로 불투명하고, Bag을 열었을 때만 뒤 화면이 흐리게 아주 살짝 비쳐요 — 뒤 글자는 읽히지 않아요</li><li>솔리드 색상에 &#x27;시스템 설정&#x27; 추가 — Mac의 라이트 · 다크 모드를 따라 화이트 · 블랙이 바뀌어요 (새로 설치하면 기본값)</li><li>설정 &gt; 업데이트 · 정보에 &#x27;베타 업데이트 받기&#x27; — 켜면 정식 출시 전 베타 버전도 받아요</li><li>베타 버전 표기를 &#x27;V1.2.0 Beta1&#x27;처럼 읽기 쉽게</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.2.0-b7/Dimple-1.2.0-b7.zip" length="9502587" type="application/octet-stream" sparkle:edSignature="Y6KpH319nsNZGkYTF8nTI1O9vNJnlT+TImFTy4IkpFZA1u7fBp0N0aZQiB3s66jbwYalcp5EZn1/a87wc2CjBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.2.0-b7/Dimple1102007-1102006.delta" sparkle:deltaFrom="1102006" length="179450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="nudL32/a2D8itPwk3IOlPMnVU+vRZ64xY2Lpq2B1yKozDvD0z2TSsQxNa1Ygh1VtfRb/rXW5+26W9QeQhfq8AQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.2.0-b7/Dimple1102007-1102005.delta" sparkle:deltaFrom="1102005" length="183778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="B5s6z/OnWrJT7ZsdsMEM6zPC9VNbW4N6OmO5t+8R5/DUVDeCq+hEzIhYmGwRf5PyWPIhAKp7t3Q3I4uqIKA6CA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.2.0-b7/Dimple1102007-1102004.delta" sparkle:deltaFrom="1102004" length="284426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="tVBCdpurM5/VHBVquCvvUrEFLg8dHW2jpNyDUxkTEuzrKahJnvHjUF/UG11Cd8oOF9rgl+B0PQHj3hp7FT0UAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.2.0</title>
             <pubDate>Wed, 14 Oct 2026 16:30:14 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1102006</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.2.0-b5/Dimple1102005-1102004.delta" sparkle:deltaFrom="1102004" length="273342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="Te/gAcaqgRWFpWCry6zU+kC7c6B4lcVPqUvcxbIp8HKXuHxNAPdili9DK2T5L6WRaw17QriabRjkR7gahEvGDQ=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.2.0-b5/Dimple1102005-1102003.delta" sparkle:deltaFrom="1102003" length="281950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="AlrynUG250htO0NN/3d4GnEPwyyCFwBmaQybmDLMWjKrxgM0mVmjrt5H1Q4mQ6RZsET1T7f1rFnxne4KiQ0qDQ=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.2.0-b5/Dimple1102005-1102002.delta" sparkle:deltaFrom="1102002" length="305778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="8bSDPtmy1ayz8ZqVFlqbVyOTs4Jlx0vyhQawDAPiofWOA62iqfgGEu759blMfoszu4d9q9peDfPykFEYOXEvCA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2.0</title>
-            <pubDate>Wed, 14 Oct 2026 14:58:25 +0900</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>1102004</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul><h3>가사 보기에 앨범 커버 · 테마 통일 · 글래스 효과 조절</h3><p><b>개선</b></p><li>Bag 미디어 플레이어에서 가사를 볼 때도 왼쪽 위에 앨범 커버가 보여요 — 비어 있던 윗공간을 채우고, 누르면 음악 앱이 열려요</li><li>설정 &gt; 일반에서 고른 노치 스타일이 Bag에도 그대로 — 글래스를 고르면 Bag도 같은 유리 느낌으로, 화이트를 고르면 Bag 카드도 화이트에 맞춰 보여요</li><li>글래스 효과를 0% ~ 100%로 조절 — 100%면 Apple Liquid Glass의 투명(Clear) 유리처럼 완전히 비쳐요</li><li>설정 &gt; 업데이트 · 정보에 &#x27;베타 업데이트 받기&#x27; — 켜면 정식 출시 전 베타 버전도 받아요</li><li>베타 버전 표기를 &#x27;V1.2.0 Beta1&#x27;처럼 읽기 쉽게</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.2.0-b4/Dimple-1.2.0-b4.zip" length="9493134" type="application/octet-stream" sparkle:edSignature="alq/p1hFaBOgO+8GOLZsmlAbNI51MLVjI+e3GL2j6HibTA+cAE7o6N6mzmlH0Jc+A9gv9bOo/Cf/Eyi9l4l+Bw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.2.0-b4/Dimple1102004-1102003.delta" sparkle:deltaFrom="1102003" length="167762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="hrLWmX06U2HbdU9FGpkJVoqm8q0dRU2DTqbLwcmWTfOX4N1t22LY7EW/1zb7m1U3Es49yxS8NRfdHKCj/g3DAA=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.2.0-b4/Dimple1102004-1102002.delta" sparkle:deltaFrom="1102002" length="226202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="56i0GQ3UFOHWEEmsqtZOwr9UlAxQzJRXvm9pM5J0ZYdW2bZVcxmgcy7yqMrr2a0kAejgfCfLOsApU6DR6ei7BA=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.2.0-b4/Dimple1102004-1102001.delta" sparkle:deltaFrom="1102001" length="239062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="1ptQ8PdQbWPSU99xsTjOJpXxE10BG07GC1ZcYIJyXOQBVY+4yyo/+J5NK3KQDPkpINXSWXBt272isEWqqtrKAQ=="/>
             </sparkle:deltas>
         </item>
         <item>
