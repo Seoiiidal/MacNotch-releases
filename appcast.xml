@@ -3,6 +3,22 @@
     <channel>
         <title>Dimple</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Sat, 17 Oct 2026 13:26:30 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1104011</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>iPhone 라이브 액티비티 내용 표시</h3><p><b>개선</b></p><li>iPhone 라이브 액티비티(길안내 · 배달 · 타이머)가 &#x27;진행 중&#x27; 대신 &#x27;카카오맵 · 1분&#x27;처럼 앱 이름과 상태를 보여 줘요</li><li>설정 &gt; iPhone에서 &#x27;메뉴 막대 모습 그대로&#x27;를 켜면 앱 로고 · 아이콘을 메뉴 막대에 보이는 그대로 보여 줘요 (화면 기록 권한 필요)</li><li>작은 iPhone 표시로 Mac 액티비티와 구분되고, 퀵픽의 &#x27;열기&#x27;를 누르면 Apple이 그리는 큰 화면이 펼쳐져요</li><li>액티비티가 떠 있을 때는 3초마다, 없을 때는 6초마다 확인해 남은 시간이 늦지 않아요</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.1-b1/Dimple-1.4.1-b1.zip" length="9633008" type="application/octet-stream" sparkle:edSignature="7NMo7AXmeaPGVsOGSqf/WS59RJ7AS13e7uLBr2Hp9Q/51n/PIGumu+qAxGnxEti4XZMX8By+tFJ1M9NMwUAGDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.1-b1/Dimple1104011-1104001.delta" sparkle:deltaFrom="1104001" length="269238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="9/Ml7PhirgF96EsATA+CR5Ra9UqJfbEL5pmPAmEnHDfNQYcnNjrKzMY6sj5zraHqisOIeNd2GpodM7jOfPLrAQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.1-b1/Dimple1104011-1103019.delta" sparkle:deltaFrom="1103019" length="448766" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="XsbCZrPtRlc2gSseeXcTb60FkAlIAtFdLzU5Xx1sFBUt+OZajRAgTvrIcQG2fefNmTTmOXlGN7di/RwibwmPCA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.1-b1/Dimple1104011-1103014.delta" sparkle:deltaFrom="1103014" length="446462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="VdWDMHvGyGE5EiF8/brH82dYEqHriisgRW9KPRvYrXgE+v+GrhaMGkTWTHMvGSRBDP2M//K1r79MwuXyX+sRCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Sat, 17 Oct 2026 13:22:10 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
