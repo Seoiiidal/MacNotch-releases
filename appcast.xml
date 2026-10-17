@@ -4,6 +4,22 @@
         <title>Dimple</title>
         <item>
             <title>1.4.3</title>
+            <pubDate>Sat, 17 Oct 2026 16:26:22 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1104033</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>빠른 추가 다듬기 · 최적화</h3><p><b>개선</b></p><li>빠른 추가에 입력하는 동안 &#x27;일정 · 내일 15:00&#x27;처럼 어디로 갈지 작은 표시가 미리 떠요 — 엔터 전에 확인</li><li>설정 창이 마지막으로 보던 페이지에서 다시 열려요</li><li>iPhone 라이브 액티비티 확인이 실행 중인 앱 전체 대신 메뉴 막대 프로세스만 살펴봐요</li><p><b>수정</b></p><li>기능 페이지에서 노치 액티비티와 Bag 위젯 이름이 같을 때(미디어 · 캘린더 · 할 일 · 타이머) 카드 하나가 빠져 보이던 문제</li><li>위젯 옵션 맨 위에 구분선만 남던 문제</li><li>Dimple을 종료했다가 켜면 빈 &#x27;Dimple 설정&#x27; 창이 뜨던 문제</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.3-b3/Dimple-1.4.3-b3.zip" length="9651576" type="application/octet-stream" sparkle:edSignature="4zB7hsyCBNjwhbteGW9IEPwMzQXsBQJzaM6kjxPYwZVljGygTK0corqllvHeiIiKkLTLVCXdZqu796Bz3zLkBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.3-b3/Dimple1104033-1104032.delta" sparkle:deltaFrom="1104032" length="185746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="HHwQMxVXW3gZdTYvVtrK3mF9NF8k5qhpz1pG4bM80c+dwQD7T77BrtfeRR6uJ/DOgOfDe+wjDSfUH4vzuFfQCQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.3-b3/Dimple1104033-1104031.delta" sparkle:deltaFrom="1104031" length="237690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="qcmZIWvc3x/EuN3cqiQ7PqNKu540sz8Fh+tpJleGlZMoDbKy4lDiWXyRbijYkQnAEjAnA14u1GcGNyPXAHHLBg=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.3-b3/Dimple1104033-1104021.delta" sparkle:deltaFrom="1104021" length="239338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="h/7RHWuGP1x4jmngYFfLoTjnH7HYLt77Z5cGwnjB2dYyNUzhG9ChmeQ6DcnDMUwSPNIP77CYvq1mKO2WANd2CQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.4.3</title>
             <pubDate>Sat, 17 Oct 2026 13:41:32 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1104032</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.3-b1/Dimple1104031-1104021.delta" sparkle:deltaFrom="1104021" length="143450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="NojyJ8p70UvJy5JJfsmloURrhWX/2TqopNjgydIB6IaQChhIL29sIR1T6qJpwk/dIX2Xu5n9ZVbZ0YhcKIfVAQ=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.3-b1/Dimple1104031-1104011.delta" sparkle:deltaFrom="1104011" length="297130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="uu+ewIQrnJvO/jcay9btQc9aQ4JmgfoyveW4vT9yjXb7ST4UX5HnwR9L4dL3Xg7SRg6qHFdoOime0Rjo5SCWBw=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.3-b1/Dimple1104031-1104001.delta" sparkle:deltaFrom="1104001" length="353862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="Fd8QVKiCOQnQWymK3LDeA35xgX9U+mwWFPNfQ8pBlaOqe/juCuxy/I6hAbbVRIpCVXUQM3xl7CESqEydnVZwAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.4.2</title>
-            <pubDate>Sat, 17 Oct 2026 13:31:15 +0900</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>1104021</sparkle:version>
-            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul><h3>설정 다듬기 · 햅틱</h3><p><b>개선</b></p><li>기능 페이지가 &#x27;표시 위치&#x27;부터 — 카드를 눌러 노치 액티비티 · Bag 위젯을 켜고 끄고, 그다음 너비, 그다음 기능별 옵션 순서예요</li><li>스위치 · 구분선만 이어지던 설정에 카드 · 캡슐 · 묶음 상자를 섞었어요 — 제스처는 카드, 전체 화면 액티비티는 캡슐로 골라요</li><li>위젯 너비를 위젯 옵션마다 흩어 두지 않고 기능 페이지의 &#x27;너비&#x27; 한곳에 모았어요</li><li>햅틱: 빠른 추가가 문장을 알아들었을 때 · 가사 타이밍을 옮길 때 가볍게 &#x27;톡&#x27;, 햅틱을 끄면 어디서도 울리지 않아요</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.2-b1/Dimple-1.4.2-b1.zip" length="9649234" type="application/octet-stream" sparkle:edSignature="nA2zIZOaiKc6KZAW8RcpmqnNCVRf2t6/sAVXmXnUZafrRVIxss9lZOkGi0Q4JRRv947YAaIcUmBfWRxFWW3dAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.2-b1/Dimple1104021-1104011.delta" sparkle:deltaFrom="1104011" length="296174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="x82VCA+hk+bjkfGDcMrSIJaK50zwZU3dfaMRAbzVq66ThFKAq0wMRRsb73uEwCqE+IPmeJFTQnsrYdBMzY9TBA=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.2-b1/Dimple1104021-1104001.delta" sparkle:deltaFrom="1104001" length="353094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="PwItzOAVctWZsD/4nKuWJ4gglWnEYHMx2gge69v9tMUH/XTzGY1tGoKtUWr9G8XXJ14DAKLqloi1TkEc8w7bCw=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.2-b1/Dimple1104021-1103019.delta" sparkle:deltaFrom="1103019" length="501106" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="pnSELoDtBmTGGVQKkGkl7RkPPelDF//fBivYWDleS6NMYEyfXoSfZT9OrDhU3HXQnoapQ0+SxX5LhZR9z/WDDQ=="/>
             </sparkle:deltas>
         </item>
         <item>
