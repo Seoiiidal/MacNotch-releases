@@ -4,6 +4,22 @@
         <title>Dimple</title>
         <item>
             <title>1.3.1</title>
+            <pubDate>Sat, 17 Oct 2026 12:48:07 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1103013</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>설정 다시 정리</h3><p><b>개선</b></p><li>설정을 Claude · macOS 시스템 설정처럼 다시 묶었어요 — 설정 · 노치 · Bag · 이 Mac · 앱</li><li>새 &#x27;모양&#x27;에서 노치 스타일 · 둥근 버튼 · 크기를, 새 &#x27;디스플레이&#x27;에서 노치 없는 화면 설정을 한곳에서 바꿔요</li><li>&#x27;동작&#x27;에 호버 · 제스처 · 햅틱을 모으고, 전체 화면 설정은 라이브 액티비티 안에 함께 뒀어요</li><li>항목마다 한 줄 — 왼쪽에 이름과 설명, 오른쪽에 스위치 · 버튼</li><li>사이드바 아이콘을 단순한 선 아이콘으로</li><li>설정 &gt; Bag &gt; 크기에서 Bag 높이를 바꿀 수 있어요</li><li>가사 타이밍 버튼이 늘 흐리게 보이고 더 커졌어요 — 말풍선 대신 가운데 글자가 &#x27;가사 늦게 · 가사 빨리 · 원래대로&#x27;로 알려 줘요</li><li>햅틱 세기를 약하게 · 보통 · 강하게 중에서 골라요 — 강하게는 트랙패드를 직접 &#x27;딸깍&#x27; 울리고, 이제 기본값이에요</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.1-b3/Dimple-1.3.1-b3.zip" length="9510766" type="application/octet-stream" sparkle:edSignature="628OMU7r8ZvK37SAXoiwC0ZdWa6IYO9Q+KH+UV1N0oBy0TWoSQqJLelFbqX2esaYPdH0e1RhDwq8mPp9pTJ6Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.1-b3/Dimple1103013-1103012.delta" sparkle:deltaFrom="1103012" length="247630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="GUFRwlbToALZJHnJyHnaewprOeNBHx+Tl7ukYyrIhonVvU+HXro+aMB3BW+pnUJfx2hAC4iJCJT5zZNp4J1BCw=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.1-b3/Dimple1103013-1103011.delta" sparkle:deltaFrom="1103011" length="283054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="rrZmOlPDOXO+XB5fwItB5PpC3wXAgTo2qA7ewgwrB1DDIzPFHVXMXBXelS3OCLWAX6RrMd4OQBESAMBCOi+3CQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.1-b3/Dimple1103013-1103004.delta" sparkle:deltaFrom="1103004" length="359234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="SHVgk/jdida6dGCVAJ1awgG+bbAQQdgAELzPh9N5uYmAkqHBgx8TggB43dS2ygG2D9++B5Dyimj4ibQ7YiXqAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.3.1</title>
             <pubDate>Sat, 17 Oct 2026 12:38:06 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1103012</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.1-b1/Dimple1103011-1103004.delta" sparkle:deltaFrom="1103004" length="298906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="UqhvG1afM1tqIPOqecEqwuVLl50OFLTqIPM61SdXz//4MUVPIhvNK0DB/2HncdoMSyEEUyhhdkSXnX2UR5XJAA=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.1-b1/Dimple1103011-1103003.delta" sparkle:deltaFrom="1103003" length="316850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="gG0K+NXROSt0yL3Zey90xFlm0AlM3yuXj4iKY4JESbVxXwHHiPahQT2dsGS5QzVL8oZxWD1+ivNO9zgKVkx1Bg=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.1-b1/Dimple1103011-1103002.delta" sparkle:deltaFrom="1103002" length="351110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="RLgz00oOz4/SY/8vC98U9NzH1/aQl+bVqswb9duy5v6Wd/YgbKxuq+WJckAI4+UFJauueNU9yh2P+pV5OPHxCg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.3.0</title>
-            <pubDate>Sat, 17 Oct 2026 02:32:24 +0900</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>1103004</sparkle:version>
-            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul><h3>설정 창 새 디자인 · 글래스를 투명도 방식으로</h3><p><b>개선</b></p><li>설정 창을 macOS 27 시스템 설정처럼 — 색이 있는 사이드바 아이콘, 창 끝까지 차는 사이드바, 덜 둥근 모서리</li><li>4pt 격자로 글자 크기 · 간격 · 카드 여백을 모든 화면에서 똑같이 맞췄어요</li><li>항목 이름 끝의 쌍점(:)을 없애고, 설명 문구를 더 읽기 쉽게 다듬었어요</li><li>선택한 항목은 색 막대 대신 차분한 바탕으로 표시해요</li><li>글래스를 반짝임 · 굴절 없이 투명도만 조절하는 방식으로 — 슬라이더 하나로 진하게부터 투명하게까지 맞춰요. 흐린 바탕 위에 어둡게 깔아 글자가 잘 읽혀요</li><li>설정 아이콘을 Bag 버튼처럼 평면으로 단순하게 바꾸고, 타일 · 버튼 안 아이콘을 정가운데에 맞췄어요</li><li>노치 · Bag 버튼이 솔리드와 글래스에서 같은 색으로 보이고, 마우스를 올리면 손가락 커서와 함께 밝아져요 — 도움말도 노치 안에 작게 떠서 커서가 풀리지 않아요</li><p><b>수정</b></p><li>글래스에서 Bag 바깥 테두리만 진하게 남고 카드 안쪽만 비치던 문제, 맨 위 몇 픽셀이 이상하게 보이던 문제</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.0-b4/Dimple-1.3.0-b4.zip" length="9508890" type="application/octet-stream" sparkle:edSignature="R3pk3Jn+nli/TUXTvfla3I5rx/FLzwb34VvcOAmFEcgi8PopAorlom74QsDsh+XDQXNePyK54nk7q7Z3LF2UDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.0-b4/Dimple1103004-1103003.delta" sparkle:deltaFrom="1103003" length="222102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="gmyeA7dj/1rSWq3ji6ZTeaNdiwcP/HbxyhVaKWvzKML2NtV6feRKIiM1+7nCwKztOMp38ot0LNA443mgcNfwDQ=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.0-b4/Dimple1103004-1103002.delta" sparkle:deltaFrom="1103002" length="261862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="63bnNBfn739xcU6vivsUDscRWgChraucaUXOXi21HHE3pGnO6QNlOxBl6FRjR5gb7D05+zVvxi+VbxhHGbCdAQ=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.0-b4/Dimple1103004-1103001.delta" sparkle:deltaFrom="1103001" length="287334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="2NTuCytN8kwleWfsGHAx+ActR6ISiBRKR/whDx9LfgxBnORmMq4JXHHAzckmzeccQ/tWGSLtCmOZtaXXw9hoBg=="/>
             </sparkle:deltas>
         </item>
         <item>
