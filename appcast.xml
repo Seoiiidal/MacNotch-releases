@@ -3,6 +3,22 @@
     <channel>
         <title>Dimple</title>
         <item>
+            <title>1.4.0</title>
+            <pubDate>Sat, 17 Oct 2026 13:22:10 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1104001</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>일정 · 미리알림 빠른 추가</h3><p><b>새 기능</b></p><li>Bag 위쪽 입력칸에 &#x27;내일 3시 팀플 회의&#x27;처럼 문장이나 단어를 쓰고 엔터 — 미리알림 · 일정 · 종일 일정 중 알맞은 곳을 골라 &#x27;이렇게 등록할까요?&#x27;로 물어봐요. 등록 · 수정 · 취소 중에서 골라요</li><li>할 일 · 캘린더 위젯의 + 버튼으로 직접 넣을 수도 있어요</li><li>모두 자동으로 만든 &#x27;Dimple&#x27; 캘린더 · 미리알림 목록에 저장돼요 (iCloud라 iPhone에도 보여요). 등록 뒤 5초 동안 되돌릴 수 있어요</li><p><b>개선</b></p><li>&#x27;위젯 사이 구분선&#x27;을 &#x27;위젯 박스&#x27;로 — 꺼도 크기 · 배치는 그대로, 상자만 빠져요</li><li>Bag 안 스크롤 막대(가사 · 할 일 · 클립보드)가 macOS에서 &#x27;항상 보기&#x27;로 설정돼 있어도 보이지 않아요 — 스크롤은 그대로 돼요</li><p><b>수정</b></p><li>Dimple을 켜면 설정 창이 저절로 열리던 문제, 설정 창이 이상한 크기로 열리던 문제</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.0-b1/Dimple-1.4.0-b1.zip" length="9620266" type="application/octet-stream" sparkle:edSignature="3xT7khP0muuctuoaqVX7n2GrDlVwkwtjkSt536bGjH8npdTiFFcv+4uJvljLg3I8S2r19p+kK1LhY/DgGhrJAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.0-b1/Dimple1104001-1103019.delta" sparkle:deltaFrom="1103019" length="407518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="j7ozrVnEgM6TLQN5/zKNT1Yek+5K/Fe8K6AE6ceHdATQqn/Kkz8b4i/nbt/5xq0SJIjugys0lmaRx2/waJ9kDQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.0-b1/Dimple1104001-1103014.delta" sparkle:deltaFrom="1103014" length="409478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="H0iiQJYer0phJMQDORQgma5c1ZUrs6UUnvrGDPd2CoAtu+IvdKrhf/4MYhr8uiFO76wyywYlXjh6wO1nko3EBA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.0-b1/Dimple1104001-1103013.delta" sparkle:deltaFrom="1103013" length="442778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="xcsYJwUoLo5IcbAKClNyKFmodmTi3Z6jc5Xp66QhYH4IDWzHb887IoZxjKNFUdIipkvcwgdUqFyNkkjHwUjzAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.1</title>
             <pubDate>Sat, 17 Oct 2026 13:18:02 +0900</pubDate>
             <sparkle:version>1103019</sparkle:version>
