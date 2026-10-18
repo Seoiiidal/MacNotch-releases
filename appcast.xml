@@ -4,6 +4,22 @@
         <title>Dimple</title>
         <item>
             <title>1.5.1</title>
+            <pubDate>Mon, 19 Oct 2026 07:47:42 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1105012</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>덜 열리게 · 캘린더</h3><p><b>개선</b></p><li>퀵픽이 노치 근처를 지나가기만 해도 열리던 것 — 이제 노치 모양 위에서만, 창 · 탭을 끄는 중이나 빠르게 지나갈 때는 열리지 않아요</li><li>캘린더: 월을 누르면 4 × 3 칸에서 원하는 달로 바로 이동. 날짜 줄은 가로로만 하루 칸 단위로 움직이고, 고른 날이 정확히 가운데 · 반쯤 잘린 칸 없음</li><li>할 일 · 캘린더 머리줄과 색을 하나로 — 오늘은 Coral, 고른 날은 중립 면, 지난 마감만 빨강</li><li>할 일 글자를 누르면 미리알림 앱에서 열려요</li><li>Bag 위젯이 화면보다 많으면 양 끝이 잘리지 않고 위젯 줄을 가로로 넘겨 볼 수 있어요</li><li>Bag이 열린 채 볼륨 · 밝기를 바꾸면 위젯을 덮지 않고 Bag 머리줄에 보여요</li><li>다른 앱이 앞으로 오면 Bag이 접혀요</li><p><b>수정</b></p><li>파일을 끈 뒤 위쪽 드롭 영역이 클릭할 때까지 남아 있던 문제 — 끌기가 끝나면 바로 닫히고, 노치 근처에 잠깐 머물 때만 열려요</li><li>볼륨 · 밝기 HUD가 너무 위에 붙어 윗부분이 잘려 보이던 문제 — 메뉴 막대 높이에 맞춰 가운데로</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.1-b2/Dimple-1.5.1-b2.zip" length="9800233" type="application/octet-stream" sparkle:edSignature="GckCrqJouoPs4rvLoJq7OvZgMfMwj2xG6p3KnLm6rmFFDg1Ov03v1Lqm0ROUk8dXFXXUEoVTA5dHlTw9MN5uAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.1-b2/Dimple1105012-1105011.delta" sparkle:deltaFrom="1105011" length="152898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="ZCEC/2M+LpzQgwB9IcU7bQOmQInF6bPxua7IxUKmN6aOn6vouZXSpVikg8wRgwiH7uk8CcPSnop376VaHAWgBg=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.1-b2/Dimple1105012-1105009.delta" sparkle:deltaFrom="1105009" length="377718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="nb8oxHCWizfuWw29aLyOnFgmlxoRQlGUfrjT5RujO21ykGp/RszM49IbTNDDTgD5HmIRPX9OVPmml0FFO8m3Ag=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.1-b2/Dimple1105012-1105004.delta" sparkle:deltaFrom="1105004" length="376650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="Y4vEIkqddsSo6Rty6vU5C5MmfVgyN8a+Ut9n7QXNDVR0k4y3zZQe57XT6SQGho8WP3n5Y2MKdpSACjXHnEBVDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.5.1</title>
             <pubDate>Mon, 19 Oct 2026 07:33:42 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1105011</sparkle:version>
