@@ -4,6 +4,22 @@
         <title>Dimple</title>
         <item>
             <title>2.0.0</title>
+            <pubDate>Tue, 20 Oct 2026 00:48:12 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1200002</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>실험실 복귀 · 가사 언어 · 입력기 표시</h3><p><b>개선</b></p><li>가사: 영어 번역이나 영어 발음(로마자) 가사가 뜨던 곡은 한국어 가사 — 또는 시스템 언어 가사를 먼저 골라요</li><li>입력기 표시: 내가 직접 한/영을 바꿀 때(Caps Lock · 지구본 · 한/영 키 · ⌃Space · 메뉴 막대)만 노치에 떠요. 창을 옮기거나 글상자를 눌러 자동으로 바뀔 때는 안 떠요</li><li>Mac 편의 기능 7개(한글 Caps Lock · 입력기 표시 · ⌘Q 길게 · 스크롤 방향 · 창 분할 · Finder 잘라내기 · 출력 장치)를 실험실(베타 사용자)로 되돌렸어요. 설정 &gt; Mac 편의는 다시 열릴 때까지 &#x27;준비 중&#x27;으로 보여요</li><p><b>고침</b></p><li>Bag 입력칸의 안내 글자가 글래스에서 거의 안 보이던 문제를 고쳤어요</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.0.0-b2/Dimple-2.0.0-b2.zip" length="9962053" type="application/octet-stream" sparkle:edSignature="lovfyVP5q5gNF/McLVgar3r+pP64gWbnQiZpPchl0ckpSq07p9QJC7B4zxeiRow5Q/I+1ApRQrIajFBv0fEBCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.0.0-b2/Dimple1200002-1200001.delta" sparkle:deltaFrom="1200001" length="297626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="UaGAMInTIca5WZD0XfMrTuXewr8j9DkasEbdYmN7DVIkzveUCdVoaza+c8TU1d8P8ygfF0/Kre3LM6EclA6+DA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.0.0-b2/Dimple1200002-1110001.delta" sparkle:deltaFrom="1110001" length="312954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="z2YxpWPkr72q6p6ARCgeCKnFhevBsd/FD3oNjrbr2BOb0izbiCQGvrBV3cMby9klfBx3Gw2aeLICjJnDTFADBQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.0.0-b2/Dimple1200002-1109001.delta" sparkle:deltaFrom="1109001" length="316582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="xHzmWKCU2wPMHdoD2MjBX0ZzPjkeS6+N0bEluvT0UH+J9w27v0TAFvE/hjxeplboSZEsAG7hGkFHf0YSjnRNBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>2.0.0</title>
             <pubDate>Mon, 19 Oct 2026 23:57:17 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1200001</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.10.0-b1/Dimple1110001-1109001.delta" sparkle:deltaFrom="1109001" length="198582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="OH/M3NIXknRxzVQ2VO6H8smb55IjitnrdFPI74vddEhUslM5TpkFqfX3zKV1FEO8uo4OVnykdqlawdEZq5jxCw=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.10.0-b1/Dimple1110001-1108001.delta" sparkle:deltaFrom="1108001" length="284718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="4wKjDnbGS8KKY0OeOp81KUcIM2ygLs6xmgdLJlo2Jfmm+0EYfdEWnnNYKZRdjy34sC56mm8LWk8f7fThUzJkAw=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.10.0-b1/Dimple1110001-1107001.delta" sparkle:deltaFrom="1107001" length="322054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="ARKG4hEMsSZkRHR4wCtamKdnPiwsvt3ddgNyveRlMY55cUL0/dvSO4DD3CjXJkOKcFG5FauLLdk7dL25exMaBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.9.0</title>
-            <pubDate>Mon, 19 Oct 2026 23:46:00 +0900</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>1109001</sparkle:version>
-            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul><h3>실험실 — 스크롤 방향 따로 · 창 분할</h3><p><b>새 기능</b></p><li>실험실: 마우스 스크롤 방향 따로 — 트랙패드는 그대로 두고 마우스 휠 방향만 반대로 (Magic Mouse는 트랙패드처럼 그대로)</li><li>실험실: 창 분할 단축키 — ⌃⌥ + ← → ↑ ↓ 로 반쪽, ⌃⌥↩ 로 전체, ⌃⌥C 로 가운데</li><p><b>버그 수정</b></p><li>실험실 Caps Lock 전환을 끌 때, 미리 설정해 둔 다른 키 대응(Karabiner 등이 아닌 hidutil 대응)까지 지워질 수 있던 문제</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.9.0-b1/Dimple-1.9.0-b1.zip" length="9945664" type="application/octet-stream" sparkle:edSignature="EXfYGzbJ7kgOBKc2OnVq7t+9GLUeLpt9GkatE/HAvoUsVV6Upz0S2NG1tCXrXyFOeoMG9eX7Hb4RV8j784iVCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.9.0-b1/Dimple1109001-1108001.delta" sparkle:deltaFrom="1108001" length="274006" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="ex8E3k0LZ5wWd5HiLFKzOC2fCC3kSLkLMxjT54De5tsj6VIc1yoNdGcfFz6dcSN/xM6ujTmRRUabOaWa/8PMCw=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.9.0-b1/Dimple1109001-1107001.delta" sparkle:deltaFrom="1107001" length="321598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="NUVARYcJv9HjxnKkqwcl6vHaKOFxmVXGtjaHpdf/afqz/65c4wWBPskvKO3wF86pK6Q7bmWmshc+FUstonPvDQ=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.9.0-b1/Dimple1109001-1106001.delta" sparkle:deltaFrom="1106001" length="407886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="SzdciiYOVvrAErwzwqCWXPVy939u4VMUv9jh4FTwJrYjKRRpfNj7Lmkcr8OqyCDesan+OSpGu+5ZNwox03XxCw=="/>
             </sparkle:deltas>
         </item>
         <item>
