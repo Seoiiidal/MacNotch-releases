@@ -4,6 +4,21 @@
         <title>Dimple</title>
         <item>
             <title>1.5.2</title>
+            <pubDate>Mon, 19 Oct 2026 17:54:12 +0900</pubDate>
+            <sparkle:version>1105029</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>할 일 · 캘린더 · 덜 열리게** (1.5.1 베타 내용 포함)</h3><p><b>새 기능</b></p><li>할 일 라이브 액티비티가 하루 종일 떠 있지 않아요 — 실행 · 잠자기에서 깨어날 때 · 잠금 해제할 때 잠깐 보이고, 원하면 30분 · 1시간마다 한 번 더 (기본 1시간)</li><li>Bag 캘린더에 그날 마감인 할 일도 함께 보여요 — 체크 원을 누르면 바로 완료. 캘린더 앱에는 아무것도 추가하지 않아요</li><li>빠른 추가: 시각을 안 쓰면 비슷한 지난 일정의 시각 · 길이로 채워요 (없으면 오늘은 다음 정시, 다른 날은 오전 10시)</li><li>캘린더 월을 누르면 4 × 3 칸에서 원하는 달로 바로 이동</li><li>업데이트 · 정보에서 지금 버전이 정식인지 베타인지 보여요</li><p><b>개선</b></p><li>빠른 추가 용어 정리 — &#x27;미리알림&#x27;은 &#x27;할 일&#x27;, &#x27;일정 · 종일 일정&#x27;은 &#x27;캘린더&#x27;(+ &#x27;하루 종일&#x27; 상자)</li><li>퀵픽은 노치 모양 위에서만 열려요 — 창 · 탭을 끄는 중이나 지나갈 때는 열리지 않아요</li><li>다운로드 진행률이 가장 먼저 보이고, Bag이 열린 채 바꾼 볼륨 · 밝기는 Bag 머리줄에 보여요</li><li>Bag 위젯이 화면보다 많으면 위젯 줄을 가로로 넘겨 봐요</li><li>다른 앱이 앞으로 오면 Bag이 접히고, 할 일 글자를 누르면 미리알림 앱에서 열려요</li><li>할 일 · 캘린더 머리줄과 색을 하나로 — 오늘은 Coral, 지난 마감만 빨강</li><li>새로 설치하면 햅틱 기본 세기가 &#x27;보통&#x27;이에요 · 설정 &gt; 일반의 &#x27;시작 안내&#x27;를 뺐어요</li><p><b>버그 수정</b></p><li>다운로드할 때 노치가 안 뜨던 문제 — 브라우저가 진행률을 알려 주지 않으면 &#x27;다운로드&#x27; 폴더의 받는 중 파일로 알아채요 (처음 한 번 &#x27;다운로드&#x27; 폴더 접근을 물어볼 수 있어요)</li><li>파일을 끌어 노치 근처에 갔다 나오면 드롭 영역 · Bag이 남던 문제</li><li>볼륨 · 밝기 HUD 윗부분이 잘려 보이던 문제</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.2/Dimple-1.5.2.zip" length="9871252" type="application/octet-stream" sparkle:edSignature="4Xpvb6BxB+ihRD7w2OecWkrNAaB8YGJ1WGKHP8gBJj3WZHQH0AMbV5wGmSWs3lfompUJ1OiMsdCnRtNWR+4QBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.2/Dimple1105029-1105021.delta" sparkle:deltaFrom="1105021" length="5142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="dD8Ts94V8I9Up8x97YFKp3yn27dFxC00wcsdiCGLtm3OCITBR4VTKoaBaVO53HkD6hlqUK+lKLY97BKfdl9NBg=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.2/Dimple1105029-1105012.delta" sparkle:deltaFrom="1105012" length="451070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="xffGyr3fIJ2KB0e3wzt3zVC0qYHalU4j9HECmx5RSk8zanmeTd4WIL01BQLLeTEHsHcpmkJLig8JMW0SllHRAg=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.2/Dimple1105029-1105011.delta" sparkle:deltaFrom="1105011" length="456162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="Oz50twjIaKC1y7oWzEld4Q/QIIq2shoOzpL2te27jQX/KOFWkqpPRCgxdyWx+Pk8NmoemLrjBcr1t9WJ79I3AQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.5.2</title>
             <pubDate>Mon, 19 Oct 2026 17:41:22 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1105021</sparkle:version>
@@ -16,38 +31,6 @@
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.2-b1/Dimple1105021-1105012.delta" sparkle:deltaFrom="1105012" length="452154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="Mau/WIbYUzw8cGqXaOdRp+1fTtB7DIAsyjxRtjHBJXRHbOTCIJom66RU7H0yJrK1IDiS0cfMHRRILVdE9QO6AA=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.2-b1/Dimple1105021-1105011.delta" sparkle:deltaFrom="1105011" length="455946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="Vm7SqHa1oBH3TrdP6U6c+nny+3/YHtR/K50tBHCEonvdvDTILFw5WSgB99da9zPNg4DXpd4oLn5iqedFZF9BCw=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.2-b1/Dimple1105021-1105009.delta" sparkle:deltaFrom="1105009" length="535254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="2pW42r4dsVvmPm9Mnp/A3nr0hEe87Svez63tW0JjImkQozvLzUbGEtIouNjHLl07Bn7oDeUrcHNbfSVDNFc/Bw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.5.1</title>
-            <pubDate>Mon, 19 Oct 2026 07:47:42 +0900</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>1105012</sparkle:version>
-            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul><h3>덜 열리게 · 캘린더</h3><p><b>개선</b></p><li>퀵픽이 노치 근처를 지나가기만 해도 열리던 것 — 이제 노치 모양 위에서만, 창 · 탭을 끄는 중이나 빠르게 지나갈 때는 열리지 않아요</li><li>캘린더: 월을 누르면 4 × 3 칸에서 원하는 달로 바로 이동. 날짜 줄은 가로로만 하루 칸 단위로 움직이고, 고른 날이 정확히 가운데 · 반쯤 잘린 칸 없음</li><li>할 일 · 캘린더 머리줄과 색을 하나로 — 오늘은 Coral, 고른 날은 중립 면, 지난 마감만 빨강</li><li>할 일 글자를 누르면 미리알림 앱에서 열려요</li><li>Bag 위젯이 화면보다 많으면 양 끝이 잘리지 않고 위젯 줄을 가로로 넘겨 볼 수 있어요</li><li>Bag이 열린 채 볼륨 · 밝기를 바꾸면 위젯을 덮지 않고 Bag 머리줄에 보여요</li><li>다른 앱이 앞으로 오면 Bag이 접혀요</li><p><b>수정</b></p><li>파일을 끈 뒤 위쪽 드롭 영역이 클릭할 때까지 남아 있던 문제 — 끌기가 끝나면 바로 닫히고, 노치 근처에 잠깐 머물 때만 열려요</li><li>볼륨 · 밝기 HUD가 너무 위에 붙어 윗부분이 잘려 보이던 문제 — 메뉴 막대 높이에 맞춰 가운데로</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.1-b2/Dimple-1.5.1-b2.zip" length="9800233" type="application/octet-stream" sparkle:edSignature="GckCrqJouoPs4rvLoJq7OvZgMfMwj2xG6p3KnLm6rmFFDg1Ov03v1Lqm0ROUk8dXFXXUEoVTA5dHlTw9MN5uAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.1-b2/Dimple1105012-1105011.delta" sparkle:deltaFrom="1105011" length="152898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="ZCEC/2M+LpzQgwB9IcU7bQOmQInF6bPxua7IxUKmN6aOn6vouZXSpVikg8wRgwiH7uk8CcPSnop376VaHAWgBg=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.1-b2/Dimple1105012-1105009.delta" sparkle:deltaFrom="1105009" length="377718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="nb8oxHCWizfuWw29aLyOnFgmlxoRQlGUfrjT5RujO21ykGp/RszM49IbTNDDTgD5HmIRPX9OVPmml0FFO8m3Ag=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.1-b2/Dimple1105012-1105004.delta" sparkle:deltaFrom="1105004" length="376650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="Y4vEIkqddsSo6Rty6vU5C5MmfVgyN8a+Ut9n7QXNDVR0k4y3zZQe57XT6SQGho8WP3n5Y2MKdpSACjXHnEBVDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.5.1</title>
-            <pubDate>Mon, 19 Oct 2026 07:33:42 +0900</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>1105011</sparkle:version>
-            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul><h3>덜 열리게 · 캘린더</h3><p><b>개선</b></p><li>퀵픽이 노치 근처를 지나가기만 해도 열리던 것 — 이제 노치 모양 위에서만, 창 · 탭을 끄는 중이나 빠르게 지나갈 때는 열리지 않아요</li><li>캘린더: 월을 누르면 4 × 3 칸에서 원하는 달로 바로 이동. 날짜 줄은 가로로만 하루 칸 단위로 움직이고, 고른 날이 정확히 가운데 · 반쯤 잘린 칸 없음</li><li>할 일 · 캘린더 머리줄과 색을 하나로 — 오늘은 Coral, 고른 날은 중립 면, 지난 마감만 빨강</li><li>할 일 글자를 누르면 미리알림 앱에서 열려요</li><li>Bag 위젯이 화면보다 많으면 양 끝이 잘리지 않고 위젯 줄을 가로로 넘겨 볼 수 있어요</li><li>Bag이 열린 채 볼륨 · 밝기를 바꾸면 위젯을 덮지 않고 Bag 머리줄에 보여요</li><li>다른 앱이 앞으로 오면 Bag이 접혀요</li><p><b>수정</b></p><li>파일을 끈 뒤 위쪽 드롭 영역이 클릭할 때까지 남아 있던 문제 — 끌기가 끝나면 바로 닫히고, 노치 근처에 잠깐 머물 때만 열려요</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.1-b1/Dimple-1.5.1-b1.zip" length="9799543" type="application/octet-stream" sparkle:edSignature="tnlIoGN3HuhxCADIzNpL2ni1gc3hhSc505YfsMz/jIexgC9h8RPL9eK7cuyIHZhc85DQ6GWoX0HRYjF1Fqb8CQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.1-b1/Dimple1105011-1105009.delta" sparkle:deltaFrom="1105009" length="375554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="b53v6HLDzpDfpPbMrUBNsbIwRYFdH6icFpMKOMfizzxy8m/PdA4I+AzB22wCukZolFa3NW5MZLfQzrGxMmCvDA=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.1-b1/Dimple1105011-1105004.delta" sparkle:deltaFrom="1105004" length="374950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="yhJpZwKwrHpCpt+GnT8HWDTZrpLXsxRkibe0FvAhgjbFbKD7UtAYFKwvMzYWvMwKrI7g8yaWhavCorDmfV2vCA=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.1-b1/Dimple1105011-1105003.delta" sparkle:deltaFrom="1105003" length="450814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="HGZxqbioRpbBLoSDytPJFQCEO7TAzHWXGD7R9a9GwsYSIl3wJvXV1gJ1SVAZHyhcuw5lfo5QNkv5IPwxYiS0Aw=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -78,21 +61,6 @@
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.5/Dimple1104059-1104051.delta" sparkle:deltaFrom="1104051" length="5074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="UF0ibbwJey1KygBfGYZvX5Fmru8QAKkoMMgcmcL+BZo1uHQY9K/IChKO6uBS4hV9Q0RqFxVR9Ie5ctOhrHdTAw=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.5/Dimple1104059-1104041.delta" sparkle:deltaFrom="1104041" length="308038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="qMSRY7vrLhLz3Cty9IIJtTw5178bpshusuCBaPycQ+LUszRr4gAEWoy20g38mWiMh5SqC1yvN1MOcs0thv8CCA=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.4.5/Dimple1104059-1104033.delta" sparkle:deltaFrom="1104033" length="384502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="dQa763fENj6OHyoe0tvTw3Zw75wRK+ztyB7P2ke3Z6U1E8ZPkmjWm4aOtqO8Ge0Zkm43JHZJ8d5PVb+aYBk1Ag=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.3.1</title>
-            <pubDate>Sat, 17 Oct 2026 13:18:02 +0900</pubDate>
-            <sparkle:version>1103019</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul><h3>설정 다시 정리</h3><p><b>개선</b></p><li>설정을 기능 중심으로 — 미디어 · 가사, 캘린더 · 미리알림, 배터리 · 기기, 시스템 · 알림, 파일 · 클립보드, 도구, 날씨 · AI 사용량, iPhone. 페이지마다 노치 라이브 액티비티와 Bag 위젯을 따로 켜고 끄고, 그 기능의 옵션을 한곳에서 바꿔요</li><li>Dimple을 실행할 때 설정 창이 저절로 열리지 않고, 설정 창은 화면 가운데에 알맞은 크기로 열려요</li><li>설정을 Claude · macOS 시스템 설정처럼 다시 묶었어요 — 설정 · 기능 · 노치 · Bag · 이 Mac · 앱</li><li>새 &#x27;모양&#x27;에서 노치 스타일 · 둥근 버튼 · 크기를, 새 &#x27;디스플레이&#x27;에서 노치 없는 화면 설정을 한곳에서 바꿔요</li><li>&#x27;동작&#x27;에 호버 · 제스처 · 햅틱을 모으고, 전체 화면 설정은 라이브 액티비티 안에 함께 뒀어요</li><li>항목마다 한 줄 — 왼쪽에 이름과 설명, 오른쪽에 스위치 · 버튼</li><li>사이드바 아이콘을 단순한 선 아이콘으로</li><li>설정 &gt; Bag &gt; 크기에서 Bag 높이를 바꿀 수 있어요</li><li>가사 타이밍 버튼이 늘 흐리게 보이고 더 커졌어요 — 말풍선 대신 가운데 글자가 &#x27;가사 늦게 · 가사 빨리 · 원래대로&#x27;로 알려 줘요</li><li>햅틱 세기를 약하게 · 보통 · 강하게 중에서 골라요 — 강하게는 트랙패드를 직접 &#x27;딸깍&#x27; 울리고, 이제 기본값이에요</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.1/Dimple-1.3.1.zip" length="9535911" type="application/octet-stream" sparkle:edSignature="CTOg8K9rudqsQaX2oNgRCvDPWx2Zc/4nAtEDNlUX7nPSD7L6N21O9dpnfmkFyzHjOSYGj8+quaumfK+IZZ3XAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.1/Dimple1103019-1103014.delta" sparkle:deltaFrom="1103014" length="5030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="IHaPugWWUqJT3RI/nvCE3rOygKMou4EZsZt42XrtlCGCzDojSTYcGHR6LG+mqN9hljtHdFCXIA7Z6sPmZ8ZuDA=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.1/Dimple1103019-1103013.delta" sparkle:deltaFrom="1103013" length="274054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="I5MTFAlNwlc5I7iNj2DzE+vJnCVONM8twKzgvNe4AjJNxBfSMcinaciuv02K7mGmtUJdsLgOuDm2YELbG/o+BQ=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.3.1/Dimple1103019-1103012.delta" sparkle:deltaFrom="1103012" length="302070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="ZccONGiCm/cqd1EH+FrgR2qRfiwRlOffFkAaDcWNxfAXZ2poxjbnlZsSQOidUEZmbNwHMeOB5WF75mv8nlMNAw=="/>
             </sparkle:deltas>
         </item>
     </channel>
