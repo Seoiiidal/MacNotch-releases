@@ -3,6 +3,22 @@
     <channel>
         <title>Dimple</title>
         <item>
+            <title>1.7.0</title>
+            <pubDate>Mon, 19 Oct 2026 18:05:22 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1107001</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>실험실 (베타)</h3><p><b>새 기능</b></p><li>설정에 &#x27;실험실&#x27;이 생겼어요 — 베타 버전이거나 &#x27;베타 업데이트 받기&#x27;를 켠 사용자에게만 보여요</li><li>실험 기능은 모두 꺼진 채로 시작하고, 켠 것만 동작해요. 끄거나 Dimple을 종료하면 바꾼 시스템 설정은 원래대로 돌아가요</li><li>켠 뒤 바로 Dimple이 비정상 종료되면 그 기능은 다음 실행 때 자동으로 꺼져요</li><li>첫 실험 기능(한글 Caps Lock 전환 등)은 다음 베타부터 차례로 들어와요</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.7.0-b1/Dimple-1.7.0-b1.zip" length="9921294" type="application/octet-stream" sparkle:edSignature="qICe/bYI6VRNLobb/1ZQTYC3LPRN3s9XiTUYM1bnBlvEUTIqDhj6WRhhdv+Xa9pEJ+iaPeGxj/XbYf9CaJsRCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.7.0-b1/Dimple1107001-1106001.delta" sparkle:deltaFrom="1106001" length="357466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="AecrQ6hHqYPoBxPTO4AY/ogQcjofa4IRRZeil5ixP26X9ypIG5bhw+qVhIVeVlirBOiow9M6kF7ozVNrP24tDw=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.7.0-b1/Dimple1107001-1105029.delta" sparkle:deltaFrom="1105029" length="401242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="B2NHXcc36t3hvQA/ara/chjmNsG87aNbZdQy548UiCvvwg9R8yvn5a2sbLwJPVxewVxHEnMh0yJFYJwDyQ6HCA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.7.0-b1/Dimple1107001-1105021.delta" sparkle:deltaFrom="1105021" length="401326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="urhGpjYK2NvrsI9wZeEdmgsrrwP4DeA4kdFNXZZeB6fRnlwwO0tIS94Nj1+0w2rm/M+TW1bYKpo/GnVMdosQAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Mon, 19 Oct 2026 17:57:15 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
