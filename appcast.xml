@@ -3,6 +3,22 @@
     <channel>
         <title>Dimple</title>
         <item>
+            <title>1.10.0</title>
+            <pubDate>Mon, 19 Oct 2026 23:52:04 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1110001</sparkle:version>
+            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>실험실 — Finder 잘라내기 · 출력 장치 · ⌘Q</h3><p><b>새 기능</b></p><li>실험실: Finder 잘라내기 — Finder에서 ⌘X로 잘라내고 ⌘V로 옮겨요. 이름을 바꾸는 중에는 원래대로</li><li>실험실: 출력 장치 빠른 전환 — ⌃⌥O를 누를 때마다 다음 스피커 · 헤드폰으로 바꾸고 노치에 이름을 보여 줘요</li><li>실험실: ⌘Q 길게 눌러 종료 — 잠깐 누른 ⌘Q는 무시하고 0.7초 넘게 누를 때만 앱을 종료해요</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.10.0-b1/Dimple-1.10.0-b1.zip" length="9946303" type="application/octet-stream" sparkle:edSignature="keq4ZmPlJ1b64AbCd6pjBs7BZRS0BeEiZO6kU9jFmIlWpWgwAhUqqvR84GCrLCvq+SqA0XNroBZZ8n8nXf1JBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.10.0-b1/Dimple1110001-1109001.delta" sparkle:deltaFrom="1109001" length="198582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="OH/M3NIXknRxzVQ2VO6H8smb55IjitnrdFPI74vddEhUslM5TpkFqfX3zKV1FEO8uo4OVnykdqlawdEZq5jxCw=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.10.0-b1/Dimple1110001-1108001.delta" sparkle:deltaFrom="1108001" length="284718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="4wKjDnbGS8KKY0OeOp81KUcIM2ygLs6xmgdLJlo2Jfmm+0EYfdEWnnNYKZRdjy34sC56mm8LWk8f7fThUzJkAw=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.10.0-b1/Dimple1110001-1107001.delta" sparkle:deltaFrom="1107001" length="322054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="ARKG4hEMsSZkRHR4wCtamKdnPiwsvt3ddgNyveRlMY55cUL0/dvSO4DD3CjXJkOKcFG5FauLLdk7dL25exMaBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.9.0</title>
             <pubDate>Mon, 19 Oct 2026 23:46:00 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -32,22 +48,6 @@
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.8.0-b1/Dimple1108001-1107001.delta" sparkle:deltaFrom="1107001" length="308802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="jEhOro8bo0qrPtZ7huCmQiys3JPOhNfRywOUzL7i7FZ4L2Z5PwLHBjORHXJfhH43632VN9cgN6l+i0VrzAE0Cg=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.8.0-b1/Dimple1108001-1106001.delta" sparkle:deltaFrom="1106001" length="389518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="Lfqa1mUFtDhs6+E4rekEqc8wjuk2R//SNnUeq/4bxvHXaXbljCYZhsg4AQPNc6ikOrsSoyGQ9A5t6cDFHTefAA=="/>
                 <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.8.0-b1/Dimple1108001-1105029.delta" sparkle:deltaFrom="1105029" length="432354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="as2KGUyIdZyId52uWnUNg/PNBTjES1TbPSs/Zi/pW8w8SFy7FfQhHP4hRvI0b5IuqF+c+/01dMZg1XYju2OdBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.7.0</title>
-            <pubDate>Mon, 19 Oct 2026 18:05:22 +0900</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>1107001</sparkle:version>
-            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul><h3>실험실 (베타)</h3><p><b>새 기능</b></p><li>설정에 &#x27;실험실&#x27;이 생겼어요 — 베타 버전이거나 &#x27;베타 업데이트 받기&#x27;를 켠 사용자에게만 보여요</li><li>실험 기능은 모두 꺼진 채로 시작하고, 켠 것만 동작해요. 끄거나 Dimple을 종료하면 바꾼 시스템 설정은 원래대로 돌아가요</li><li>켠 뒤 바로 Dimple이 비정상 종료되면 그 기능은 다음 실행 때 자동으로 꺼져요</li><li>첫 실험 기능(한글 Caps Lock 전환 등)은 다음 베타부터 차례로 들어와요</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.7.0-b1/Dimple-1.7.0-b1.zip" length="9921294" type="application/octet-stream" sparkle:edSignature="qICe/bYI6VRNLobb/1ZQTYC3LPRN3s9XiTUYM1bnBlvEUTIqDhj6WRhhdv+Xa9pEJ+iaPeGxj/XbYf9CaJsRCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.7.0-b1/Dimple1107001-1106001.delta" sparkle:deltaFrom="1106001" length="357466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="AecrQ6hHqYPoBxPTO4AY/ogQcjofa4IRRZeil5ixP26X9ypIG5bhw+qVhIVeVlirBOiow9M6kF7ozVNrP24tDw=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.7.0-b1/Dimple1107001-1105029.delta" sparkle:deltaFrom="1105029" length="401242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="B2NHXcc36t3hvQA/ara/chjmNsG87aNbZdQy548UiCvvwg9R8yvn5a2sbLwJPVxewVxHEnMh0yJFYJwDyQ6HCA=="/>
-                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.7.0-b1/Dimple1107001-1105021.delta" sparkle:deltaFrom="1105021" length="401326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="urhGpjYK2NvrsI9wZeEdmgsrrwP4DeA4kdFNXZZeB6fRnlwwO0tIS94Nj1+0w2rm/M+TW1bYKpo/GnVMdosQAw=="/>
             </sparkle:deltas>
         </item>
         <item>
