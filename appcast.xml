@@ -51,6 +51,21 @@
             </sparkle:deltas>
         </item>
         <item>
+            <title>1.5.3</title>
+            <pubDate>Tue, 20 Oct 2026 15:50:19 +0900</pubDate>
+            <sparkle:version>1105039</sparkle:version>
+            <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>설정 창 고침 · iPhone 액티비티 · 더 가볍게</h3><p><b>개선</b></p><li>iPhone 라이브 액티비티가 깔끔해졌어요 — 메뉴 막대를 잘라 붙이지 않고 App Store 앱 아이콘과 Dimple 글자로 보여 줘요 (처음 한 번만 아이콘을 받아 와요)</li><li>화면이 꺼져 있는 동안은 전체 화면 · 권한 확인을 쉬어 배터리를 덜 써요</li><p><b>버그 수정</b></p><li>처음 실행할 때 빈 &#x27;Dimple 설정&#x27; 창이 저절로 뜨던 문제를 고쳤어요 — 뜨는 즉시 닫아요</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.3/Dimple-1.5.3.zip" length="9886780" type="application/octet-stream" sparkle:edSignature="EBk4TDwRpdhtzQAGhEfcUUlFIoG/PaaiWZmKuSWfzluOhaVGkKyxpRnp4eHppG/0Z1Ptq58jx9dhQhgj0qYrCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.3/Dimple1105039-1105029.delta" sparkle:deltaFrom="1105029" length="304454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="GE7uHSTw2Fb+wguaJKqGt+lAH3MzGP80tJ7UP8ZXo0Shz1wTgJWNiYJ+CIhHDxW1xW61sHL3W02ak0/0d89bCA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.3/Dimple1105039-1105021.delta" sparkle:deltaFrom="1105021" length="303966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="z6y5w/U+1IqH5oUF3CL47Fi3dqZvxI5V6jUkakNWRkSwsxK4trjbrl+04zpB12uKqVoTTiQSQSkW0i2iezkrBA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.5.3/Dimple1105039-1105012.delta" sparkle:deltaFrom="1105012" length="491678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="38t8GyWNnm1Ibah8BddXHSirD96ax3OM1w/wbICEUmB1RIzCXP+Jc9iXOdQJTC2KszRnfQ6+aFG+fACN9j7sAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5.2</title>
             <pubDate>Mon, 19 Oct 2026 17:54:12 +0900</pubDate>
             <sparkle:version>1105029</sparkle:version>
