@@ -4,6 +4,22 @@
         <title>Dimple</title>
         <item>
             <title>2.0.0</title>
+            <pubDate>Tue, 20 Oct 2026 20:27:19 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1200004</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><p><b>&gt; 1.6.0 ~ 1.10.0 베타(2026-10-19)는 모두 2.0.0 베타로 합쳤어요.</b></p><h3>V2.0.0 Beta4 — Mac 편의 · 퀵픽</h3><p><b>새 기능</b></p><li>실험 3개가 설정 &gt; Mac 편의로 졸업했어요(모든 사용자): 한글 Caps Lock 바로 전환 · 마우스 스크롤 방향 따로 · 창 분할 단축키. 실험실에는 Finder 잘라내기가 남아요</li><p><b>개선</b></p><li>퀵픽 내용이 노치에서 조금 더 아래에 보여 글자가 잘리지 않고, 높이를 키우면 내용이 가운데에 와요</li><li>설정 사이드바가 조금 더 위에서 시작해요</li><h3>V2.0.0 Beta3 — 실험실 정리 · iPhone 액티비티 · 설정 창</h3><p><b>개선</b></p><li>실험실을 4개로 정리했어요 — 한글 Caps Lock 바로 전환 · 마우스 스크롤 방향 따로 · 창 분할 단축키 · Finder 잘라내기. 입력기 표시 · 출력 장치 빠른 전환 · ⌘Q 길게 눌러 종료는 뺐어요</li><li>iPhone 라이브 액티비티가 깔끔해졌어요 — 메뉴 막대를 잘라 붙이지 않고 App Store 앱 아이콘과 Dimple 글자로 보여 줘요</li><li>화면이 꺼져 있는 동안은 전체 화면 · 권한 확인을 쉬어 배터리를 덜 써요</li><p><b>버그 수정</b></p><li>처음 실행할 때 빈 &#x27;Dimple 설정&#x27; 창이 저절로 뜨던 문제</li><h3>V2.0.0 Beta2 — 가사 언어 · 빠른 추가 입력칸</h3><p><b>개선</b></p><li>가사: 영어 번역이나 로마자 발음 가사가 뜨던 곡은 한국어 가사 — 또는 시스템 언어 가사를 먼저 골라요</li><li>Mac 편의 기능은 더 시험하려고 실험실(베타 사용자)로 옮겼어요</li><p><b>버그 수정</b></p><li>Bag 빠른 추가 입력칸의 안내 글자가 글래스에서 거의 안 보이던 문제</li><h3>V2.0.0 Beta1 — 액티비티 여러 개 · 실험실** (1.6.0 ~ 1.10.0 베타 포함)</h3><p><b>새 기능</b></p><li>진행 중인 게 여러 개면 노치에 함께 보여요 — 새 정보는 왼쪽, 이미 있던 것은 오른쪽 작은 아이콘(3개까지, 넘으면 +N). 아이콘에 마우스를 올리면 그 액티비티의 퀵픽이 열려요</li><li>다운로드는 늘 맨 앞 — 라이브 액티비티 &gt; &#x27;여러 개 함께 보기&#x27;에서 끌 수 있어요</li><li>실험실(베타 사용자): 한글 Caps Lock 바로 전환 · 마우스 스크롤 방향 따로(Magic Mouse는 그대로) · 창 분할 단축키(⌃⌥ + 화살표 · ↩ · C) · Finder 잘라내기(⌘X → ⌘V)</li><p><b>개선</b></p><li>실험 기능은 모두 꺼진 채 시작해요. 끄거나 Dimple을 종료하면 바꾼 시스템 설정은 원래대로, 켠 뒤 바로 비정상 종료되면 자동으로 꺼져요</li><li>권한은 실험 기능을 켤 때만 물어봐요</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.0.0-b4/Dimple-2.0.0-b4.zip" length="9970346" type="application/octet-stream" sparkle:edSignature="1tsAbeHPZOmtYMqAozdvFd9tBv6CBJ9XYtVxG2vXbcplfnFDVr0rHPKLJ6n8FJHkIS6+HDjnKFQ6s0hzRCRTDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.0.0-b4/Dimple1200004-1200003.delta" sparkle:deltaFrom="1200003" length="247158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="7y0JGKYTw6bqchnJywMCrUqJvj/kqQK/rAWbMJUlFeN8YKoX4um7M+KZVhB4whkFx7iUCprMLmTwdy2orxXxAw=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.0.0-b4/Dimple1200004-1200002.delta" sparkle:deltaFrom="1200002" length="334666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="cVmnXc8Fjc3yP6aE9nkJi7MM+ifuMV3P3hGK7HWMLqn8fKU5ZFaHOwOloYYw7EGmrykDAoFjz3HdfBwZdUQxBQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.0.0-b4/Dimple1200004-1200001.delta" sparkle:deltaFrom="1200001" length="349942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="a6DozLj2rQtEuikQ0Y+DxMzw+eEdDWwVwnxJN/ekIcxK/mytWbSJr65pbUofr9UimnRsKzMGly8jqo+gmCNaCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>2.0.0</title>
             <pubDate>Tue, 20 Oct 2026 16:00:44 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1200003</sparkle:version>
