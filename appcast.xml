@@ -83,6 +83,21 @@
             </sparkle:deltas>
         </item>
         <item>
+            <title>1.6.1</title>
+            <pubDate>Thu, 22 Oct 2026 16:25:33 +0900</pubDate>
+            <sparkle:version>1106019</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>액티비티 정렬 · 설치 화면</h3><p><b>개선</b></p><li>설치 화면(DMG)이 새로워졌어요 — 끌어다 놓을 곳을 화살표로 보여 주고, 처음 열 때 경고가 뜨면 어디를 누르면 되는지 함께 적었어요</li><p><b>버그 수정</b></p><li>라이브 액티비티의 아이콘과 글자가 노치 양쪽 끝에서 같은 거리에 맞춰져요 — 하나일 때도, 여러 개일 때도</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.6.1/Dimple-1.6.1.zip" length="9970797" type="application/octet-stream" sparkle:edSignature="DW6c5FP3HQgx/iKwAi7z1JAfABOSnt4/g006RTde9T1+r3oq7pJPf6/4CN6KKHrYxzevvWZgbddXL7Ct8Lg2Aw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.6.1/Dimple1106019-1106009.delta" sparkle:deltaFrom="1106009" length="182122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="FpI6sWUhaylEGkyyfsC0ldnX+477l+cDGpGbDqiewDJ1hFewekagNegDsS+Ec92xqNa6R8ZKODbQ0GdsmfPoDw=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.6.1/Dimple1106019-1105039.delta" sparkle:deltaFrom="1105039" length="480946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="wZjgNoFAg0lm1tsdQakoT8U0jJ7sDkdbIdOLV+Qtv4KAhM2JCD0Y5/nzu26aO/RZrTHgAzD5tbs7Yf6PrBoiDQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v1.6.1/Dimple1106019-1105029.delta" sparkle:deltaFrom="1105029" length="498434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="q1sjEQoOOq43rE3Jk5OfgiLzJFzAHu5BnFQEANpxuRE0iGihyC47YJGsVbwp+mSI7eFGuIRFZnGfGTYrR5N3CA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Tue, 20 Oct 2026 20:49:42 +0900</pubDate>
             <sparkle:version>1106009</sparkle:version>
