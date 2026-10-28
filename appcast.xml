@@ -3,6 +3,22 @@
     <channel>
         <title>Dimple</title>
         <item>
+            <title>2.1.0</title>
+            <pubDate>Wed, 28 Oct 2026 18:33:25 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1201001</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>V2.1.0 Beta1 — 캘린더 + 할 일 · 새 빠른 추가** (2026-10-28)</h3><p><b>새 기능</b></p><li>캘린더 · 할 일 위젯을 &#x27;캘린더&#x27; 하나로 합쳤어요 — 그날의 일정과 할 일을 한 목록에 (일정은 색 막대, 할 일은 동그라미)</li><li>날짜 없는 할 일은 오늘 칸 맨 위에 접힌 묶음으로, 지난 할 일은 오늘 칸 맨 위에 빨간 날짜와 함께 보여요</li><li>할 일을 우클릭하면 오늘로 · 내일로 · 고른 날로 옮기거나 날짜를 지울 수 있어요</li><li>캘린더 위젯 + 버튼 하나 — 문장을 쓰면 아래 칸이 저절로 채워지고, 틀린 칸만 고쳐 [등록]</li><p><b>개선</b></p><li>두 위젯을 모두 쓰던 분은 앞에 있던 자리에 더 넓은 캘린더 위젯 하나로 바뀌어요</li><li>캘린더나 미리 알림 권한 중 하나만 있으면 있는 것만 보여 주고, 나머지는 한 줄로 안내해요</li><li>Bag 위쪽의 긴 빠른 추가 입력칸은 없앴어요</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.0-b1/Dimple-2.1.0-b1.zip" length="10007500" type="application/octet-stream" sparkle:edSignature="0b0MsgEqc+kXQu4796nlj2BpZ9SGiyCl/2LnvpM1OwAHK1mzy4pHaqgWj5QTZm4yNiaP2jX8Bjbr7SZ7jxRlBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.0-b1/Dimple1201001-1200009.delta" sparkle:deltaFrom="1200009" length="370654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="NuRj/XHKyoKSNDVe30kaCL1btGR4aSLzCKiI76oQwgCUjF9g6YhR9zfrzWRYYUbjYyStBHAApFfTCFvAA5PaAw=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.0-b1/Dimple1201001-1200008.delta" sparkle:deltaFrom="1200008" length="380090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="GeGGHvcHa/o1lQCDO34m/zpIVgcD7mZRe7Wvi8xiyQweU/JdFSFTGH0hb+Yi5RLZEsrIb0mtJmhGblP+EFm1CA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.0-b1/Dimple1201001-1200007.delta" sparkle:deltaFrom="1200007" length="405798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="W87zcXDLLeZIyNR+uJjG7yEyKP9JJgIpYJqabX0UUdmfQkRwu7zgks1TuAx32PE14mx7Pwf1Yon8Sokis0gEBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.0.0</title>
             <pubDate>Wed, 28 Oct 2026 18:24:28 +0900</pubDate>
             <sparkle:version>1200009</sparkle:version>
