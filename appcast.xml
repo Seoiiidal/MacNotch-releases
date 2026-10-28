@@ -3,6 +3,22 @@
     <channel>
         <title>Dimple</title>
         <item>
+            <title>2.1.1</title>
+            <pubDate>Thu, 29 Oct 2026 03:05:52 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1201011</sparkle:version>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>V2.1.1 Beta1 — 고침 · 최적화** (2026-10-29)</h3><p><b>버그 수정</b></p><li>기능 페이지에서 싱크 가사 · 단축어를 펼치면 빈 &#x27;Bag&#x27; 상자가 보이던 문제</li><p><b>개선</b></p><li>단축어 &#x27;열&#x27;은 세그먼트로 고르고, AI 사용량 한도는 0M 대신 &#x27;자동&#x27;으로 보여요</li><li>설정 › Bag › 위젯 배치 슬라이더의 눈금 줄을 없앴어요</li><li>파일 · 시스템 페이지 아래 상자에 제목(노치 · 알림)을 붙였어요</li><li>Bag 가사(위젯 · 미디어 카드)는 줄이 바뀔 때만 목록을 다시 그려요 — 전에는 0.25초마다 전체를 다시 그렸어요</li><li>노래방 채우기는 120Hz 화면에서도 60fps까지, 음악을 멈추면 쉬어요 · 멈춘 타이머 위젯은 다시 그리지 않아요</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.1-b1/Dimple-2.1.1-b1.zip" length="10155885" type="application/octet-stream" sparkle:edSignature="xmlDtM6KDnirTTryo4II33x9TaS59dDndGLjvILR451NxKtkTekXCqcFf8WNOW2tDUM6Mfyktb4hg0hCoP3KAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.1-b1/Dimple1201011-1201009.delta" sparkle:deltaFrom="1201009" length="339354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="Ka8LDhhYSzYbVlaJj9Ad4bt4548g6ksBvY605pJCvdg0yMInrr7cL2wdplYY+aAWjakAkwabAuCsarUC29Y1DA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.1-b1/Dimple1201011-1201008.delta" sparkle:deltaFrom="1201008" length="337610" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="3cqAajZUwLHnz3f4x1rgEvaZIAqI+Ci0buJlqylR9RmVQaQdAIOK3hk+v4JQtx3A+EG3JIZxXmeDU8Wx0IdqAA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.1-b1/Dimple1201011-1201007.delta" sparkle:deltaFrom="1201007" length="346458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="VtG2S73+qg40H5npo52M7OhqW6fsBqPZSFvJzBF2E1UzQCmlbrZL0Lli+XVM+QMbXdkEaNrn5TslF9zRk0c/AA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.1.0</title>
             <pubDate>Thu, 29 Oct 2026 02:25:52 +0900</pubDate>
             <sparkle:version>1201009</sparkle:version>
