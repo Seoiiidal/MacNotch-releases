@@ -4,6 +4,22 @@
         <title>Dimple</title>
         <item>
             <title>2.1.0</title>
+            <pubDate>Wed, 28 Oct 2026 23:46:26 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1201004</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>V2.1.0 Beta4 — 실험실: 녹음 스크립트** (2026-10-28)</h3><p><b>새 기능</b></p><li>실험실 · 녹음 스크립트: 녹음이 끝나면 이 Mac 안에서 받아 적어 실제 시각(HH:mm:ss)과 함께 스크립트로 만들어요 — 일시정지한 자리도 표시</li><li>녹음 목록: 녹음마다 상태 표시, 우클릭 › 스크립트 보기 · 스크립트 만들기. 스크립트 창에서 복사 · .txt 열기</li><h3>V2.1.0 Beta3 — 실험실 고침** (2026-10-28)</h3><p><b>버그 수정</b></p><li>실험실 기능을 모두 켜면 Dimple이 시작하자마자 멈출 수 있던 문제 — 온도 센서를 뒤에서 읽어요</li><h3>V2.1.0 Beta2 — 실험실: 온도 · 잠자기 방지 · 스크린샷** (2026-10-28)</h3><p><b>새 기능</b></p><li>실험실 · 온도 표시: 시스템 모니터 위젯에 CPU · GPU · 배터리 온도, CPU가 80°C를 넘으면 노치 알림</li><li>실험실 · 잠자기 방지: Bag 위쪽 컵 버튼으로 1시간 · 끄기 전까지 깨워 두고, 녹음 · 다운로드 중에는 저절로 잠들지 않아요</li><li>실험실 · 스크린샷 자동 복사: 새 스크린샷이 바로 클립보드에 들어가요</li><p><b>개선</b></p><li>실시간 소리 분석은 파형이 실제로 보일 때만 돌아요 — 음악과 다른 액티비티가 같이 있거나 Bag을 열었을 때 CPU를 덜 써요</li><h3>V2.1.0 Beta1 — 캘린더 + 할 일 · 새 빠른 추가** (2026-10-28)</h3><p><b>새 기능</b></p><li>캘린더 · 할 일 위젯을 &#x27;캘린더&#x27; 하나로 합쳤어요 — 그날의 일정과 할 일을 한 목록에 (일정은 색 막대, 할 일은 동그라미)</li><li>날짜 없는 할 일은 오늘 칸 맨 위에 접힌 묶음으로, 지난 할 일은 오늘 칸 맨 위에 빨간 날짜와 함께 보여요</li><li>할 일을 우클릭하면 오늘로 · 내일로 · 고른 날로 옮기거나 날짜를 지울 수 있어요</li><li>캘린더 위젯 + 버튼 하나 — 문장을 쓰면 아래 칸이 저절로 채워지고, 틀린 칸만 고쳐 [등록]</li><p><b>개선</b></p><li>두 위젯을 모두 쓰던 분은 앞에 있던 자리에 더 넓은 캘린더 위젯 하나로 바뀌어요</li><li>캘린더나 미리 알림 권한 중 하나만 있으면 있는 것만 보여 주고, 나머지는 한 줄로 안내해요</li><li>Bag 위쪽의 긴 빠른 추가 입력칸은 없앴어요</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.0-b4/Dimple-2.1.0-b4.zip" length="10077142" type="application/octet-stream" sparkle:edSignature="xH1+nApYYwtCfHScuTIA+KgY9iMMHPTEUqEk28DKxa9us1QkGvNVyhq3fL9/BbQXO9/ReIFHuIO5FIsRPZf3DA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.0-b4/Dimple1201004-1201003.delta" sparkle:deltaFrom="1201003" length="365854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="oV4Wj2BSxPRwZA4QJrktycIqZjhHy1CliLxw63Y01dYvu2LWEn0mz7Pf3eYqMm/D3fRe6Yx5tFO9VjQ+KDUACg=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.0-b4/Dimple1201004-1201002.delta" sparkle:deltaFrom="1201002" length="386418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="wnFvzRkd4G9C9S7jnPFwznarf0tDcLc1GL6/81oauOB0hw15y5APLjrPYWdC23eVjmHJziZ2hc28l60FSRpVCQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.0-b4/Dimple1201004-1201001.delta" sparkle:deltaFrom="1201001" length="406138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="GZvNX3svo9ENptIgom2gxmjmRqPIEqjf7wBiHsVGzHf854/LPrTEgyaSvos7NyRBWc5UZMRaYJKa2tHfkThJBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>2.1.0</title>
             <pubDate>Wed, 28 Oct 2026 23:34:03 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1201003</sparkle:version>
