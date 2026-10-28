@@ -4,6 +4,22 @@
         <title>Dimple</title>
         <item>
             <title>2.1.1</title>
+            <pubDate>Thu, 29 Oct 2026 05:01:49 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1201013</sparkle:version>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>V2.1.1 Beta3 — 실험실 오디오 EQ · 마무리** (2026-10-29)</h3><p><b>새 기능</b></p><li>실험실 › 오디오 EQ — Mac 전체 소리를 31Hz~16kHz 10칸으로 조절해요. 기본 · 저음 · 목소리 · 고음 프리셋, 막대를 끌어 직접(두 번 누르면 0). 드라이버를 설치하지 않고, 처음 켤 때 &#x27;시스템 오디오 녹음&#x27; 권한만 물어요</li><li>EQ에 문제가 생기면(소리 장치 응답 없음 등) 저절로 꺼지고 원래 소리로 돌아와요 · AirPods 등으로 출력 장치를 바꾸면 그 장치로 다시 맞춰요</li><p><b>개선</b></p><li>발화자 나누기가 메모리를 덜 써요 — 9분 녹음 기준 최대 약 710MB → 460MB</li><li>실시간 파형이 Dimple EQ가 내보내는 소리를 두 번 세지 않아요</li><p><b>버그 수정</b></p><li>Dimple이 뒤에서 화면 점검을 하는 동안 바꾼 설정이 덮어써질 수 있던 문제</li><h3>V2.1.1 Beta2 — 실험실 · 발화자 나누는 녹음 스크립트** (2026-10-29)</h3><p><b>새 기능</b></p><li>실험실 › 녹음 스크립트가 발화자를 나눠요 — 발화자 1 · 2 …로, 모두 이 Mac 안에서 처리해요 (발화자 모델은 처음 한 번 받아요, 녹음은 보내지 않아요)</li><li>발화자 이름을 바꾸면 그 목소리를 기억해 다음 녹음에서 &#x27;민서일까요?&#x27;로 물어봐요 — [맞아요]를 눌러야 이름이 바뀌어요. 실험실에서 끄거나 모두 지울 수 있어요</li><li>스크립트 창 — 줄을 누르면 그 자리부터 재생, 우클릭으로 그 줄만 다른 발화자로, .txt · .srt · .md 내보내기, 실제 시각 · 경과 시간 전환</li><li>녹음 우클릭 › 휴지통으로 옮기기 — 스크립트 · 자막 · 시각 기록도 함께 옮겨요</li><p><b>개선</b></p><li>스크립트를 단어 시각으로 문장마다 나눠요 (전에는 여러 문장이 한 줄로 묶였어요)</li><li>녹음 행 오른쪽에 스크립트 만드는 진행률 원이 보여요</li><h3>V2.1.1 Beta1 — 고침 · 최적화** (2026-10-29)</h3><p><b>버그 수정</b></p><li>기능 페이지에서 싱크 가사 · 단축어를 펼치면 빈 &#x27;Bag&#x27; 상자가 보이던 문제</li><p><b>개선</b></p><li>단축어 &#x27;열&#x27;은 세그먼트로 고르고, AI 사용량 한도는 0M 대신 &#x27;자동&#x27;으로 보여요</li><li>설정 › Bag › 위젯 배치 슬라이더의 눈금 줄을 없앴어요</li><li>파일 · 시스템 페이지 아래 상자에 제목(노치 · 알림)을 붙였어요</li><li>Bag 가사(위젯 · 미디어 카드)는 줄이 바뀔 때만 목록을 다시 그려요 — 전에는 0.25초마다 전체를 다시 그렸어요</li><li>노래방 채우기는 120Hz 화면에서도 60fps까지, 음악을 멈추면 쉬어요 · 멈춘 타이머 위젯은 다시 그리지 않아요</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.1-b3/Dimple-2.1.1-b3.zip" length="12038256" type="application/octet-stream" sparkle:edSignature="ngoc70XYhZjhtoycptuBSary7uyuaDETuFo2kwrVGXIkf7KAEJLjVO428n7pAigRoKinEAYT4jzNSL3SNthSCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.1-b3/Dimple1201013-1201012.delta" sparkle:deltaFrom="1201012" length="379530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="unS3M1PyFPR7d/altEJhHCTSwTjxo4bjpR6PWTSxDgY1RT9DV7NJw/aG03OpC1sWGs5Jozy34hlpy9EUZOb8DA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.1-b3/Dimple1201013-1201011.delta" sparkle:deltaFrom="1201011" length="2040618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="kK0hOa/sWPv2ZIwMxWdONr1SdNqXTCV1UDgqMKzOmTxhcJw7QAsqCd5ZfftnuUNIYKFml/ayiMvmOsFzSA0LCQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.1-b3/Dimple1201013-1201009.delta" sparkle:deltaFrom="1201009" length="2072542" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="V9G8vXpP+ut1X5o2baq0J+TUbCzy/GAXjsRArQO2iODx3kvUxko5a4JcFPOd5TWyvhCJ6itPfyzwPkQeRHFjBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>2.1.1</title>
             <pubDate>Thu, 29 Oct 2026 04:50:02 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1201012</sparkle:version>
