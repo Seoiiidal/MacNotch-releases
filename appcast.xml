@@ -4,6 +4,21 @@
         <title>Dimple</title>
         <item>
             <title>2.1.0</title>
+            <pubDate>Thu, 29 Oct 2026 02:25:52 +0900</pubDate>
+            <sparkle:version>1201009</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><p><b>&gt; 정식 2.0.0에서 바뀐 점이에요.</b></p><p><b>새 기능</b></p><li>캘린더와 할 일을 하나로 — 캘린더 위젯 한 목록에 그날의 일정(색 막대)과 할 일(동그라미)이 함께 보여요. 날짜 없는 할 일은 오늘 칸 맨 위 접힌 묶음, 지난 할 일은 빨간 날짜와 함께</li><li>할 일 우클릭으로 오늘 · 내일 · 고른 날로 옮기거나 날짜 지우기</li><li>새 빠른 추가 — 캘린더 위젯 + 버튼에서 문장을 쓰면 아래 칸이 저절로 채워지고, 틀린 칸만 고쳐 [등록]</li><li>한 달 보기 — 캘린더 위젯 + 왼쪽 버튼으로 한 달을 보고, 날짜를 누르면 그 날로 이동</li><li>설정 › 모양 › 노치 크기 — 실제 노치 맞추기 · 대기 크기 · 라이브 액티비티 양옆 너비 · 높이 · 앨범 아트 크기 · 퀵픽 크기를 한곳에</li><li>설정 › Bag › 위젯 배치 — 순서 · 칸 수 · 켜고 끄기를 한 목록에 (모든 위젯 최대 16칸)</li><li>노치 라이브 액티비티 › 가사 · 날씨 — 노치 아래 싱크 가사 켜고 끄기, 3시간 안 비 소식 노치 알림(날씨 위젯을 꺼도 동작)</li><p><b>개선</b></p><li>가사를 더 많이 찾아요 — 영상 제목 정리, 아이유 / IU 같은 두 표기 아티스트, 한 번 찾은 곡은 다시 켜도 바로, [offset] 태그 반영</li><li>싱크 가사가 점점 밀리지 않게 — Apple Music · Spotify는 10초마다 실제 재생 위치로 맞춰요</li><li>글래스를 훨씬 투명하게 — 투명 쪽 끝에서는 흐림도 옅어지고, 투명도 견본 · 리퀴드 글래스 아이콘으로 바꿨어요</li><li>설정 창 바탕에 배경화면 색을 살짝만 남겨 잘 읽혀요</li><li>설정 정리 — &#x27;노치 라이브 액티비티&#x27; 이름, 노치 알림은 그 페이지 한곳에서 켜고 끄기, 가상 노치는 모양으로, 노치 알림 설정은 켜고 끄기 위주로</li><li>빠른 추가 화면 · 시스템 모니터 위젯이 잘 보이게</li><li>음악과 다른 액티비티가 함께면 노치에는 앨범 아트만, 퀵픽에는 두 액티비티 모두</li><li>실시간 소리 분석 · 흐르는 글자가 전력을 덜 써요</li><li>새 사용자 Bag 기본 = 캘린더 · 미디어 플레이어 · 녹음 · 클립보드 기록 · 기기 배터리</li><p><b>버그 수정</b></p><li>음악을 들을 때 앨범 아트 · 파형이 노치 가장자리에 닿아 깨져 보이던 문제</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.0/Dimple-2.1.0.zip" length="10151439" type="application/octet-stream" sparkle:edSignature="ApC32AJWklOMgYFpzXE4ojAUPPeG5nL7KfFbjT0tCWznD6FCC6DJnadMMiukf+JJctkJvtZsDBwXSohSaQcxBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.0/Dimple1201009-1201008.delta" sparkle:deltaFrom="1201008" length="176426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="pk/64NX7ZZkejEHRK1f5Uf7dO2Ztn99J29HS8oyLE3jhgFNRqcInhHou2Lp8tO00/+1NOXmYpceHK/Vfjo3mCQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.0/Dimple1201009-1201007.delta" sparkle:deltaFrom="1201007" length="226902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="K0xSmqgHgbCXDd8zgHCMVjYg65g1YCyqVQ9eMmHyaAqjrUqIYLJFxB8BV/bfxKbGpykjq47nGLC5shJSiG7/BA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.0/Dimple1201009-1201006.delta" sparkle:deltaFrom="1201006" length="372538" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="n8uxMMWpOJqueUZ9Rc1mchUGBY32vEr1BJI4g0Rl6oIv4yoAPOkOjOgBhRxzDwrEu0Awd9GNigvmB0eXHMc+Aw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>2.1.0</title>
             <pubDate>Thu, 29 Oct 2026 01:57:34 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1201008</sparkle:version>
