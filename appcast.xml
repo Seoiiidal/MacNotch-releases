@@ -4,6 +4,21 @@
         <title>Dimple</title>
         <item>
             <title>2.0.0</title>
+            <pubDate>Wed, 28 Oct 2026 18:24:28 +0900</pubDate>
+            <sparkle:version>1200009</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><p><b>&gt; 정식 1.6.1에서 바뀐 점이에요.</b></p><p><b>새 기능</b></p><li>녹음 일시정지 — 잠깐 멈췄다가 같은 파일에 이어서 녹음하고, 쉰 시간은 경과 시간에서 빠져요</li><li>Mac 편의에 Finder 잘라내기(⌘X → ⌘V)가 들어왔어요</li><li>Mac 편의 › 앱별 제외 — 넣어 둔 앱이 앞에 있으면 키 · 스크롤을 건드리지 않아요 (게임 · 원격 데스크톱 등)</li><li>퀵픽에서 액티비티 둘 다 — 주 액티비티 아래에 다음 액티비티(일정 · iPhone · 타이머 등)가 한 줄로 보여요</li><li>설치 창(DMG)이나 다운로드 폴더에서 바로 열면 응용 프로그램 폴더로 옮길지 물어봐요</li><p><b>개선</b></p><li>녹음이 48kHz 스테레오로 저장되고, 앱 언어를 바꿔도 예전 녹음이 목록에 남아요</li><li>라이브 액티비티 설정이 단순해졌어요 — 전체 스위치 · 알림 종류 카드 · 퀵픽만 남겼어요(세부 값은 그대로 동작)</li><li>설정 &gt; 권한: 켠 기능에 필요한 권한만 위에 모으고, 나머지는 &#x27;선택 사항&#x27;으로 그 기능을 켤 때만 물어봐요</li><li>음악과 다른 액티비티가 함께 있으면 노치에는 앨범 아트만 — 실시간 파형은 숨겨요</li><li>작은 액티비티 아이콘을 같은 크기 정사각형으로 맞추고, 가로로 긴 썸네일은 가운데 기준으로 잘라요</li><li>Mac 편의 상태를 글자로 보여 줘요 — 동작 중 · 권한 필요 · 자동으로 꺼짐</li><li>노치 · Bag 색과 글자 크기를 하나의 디자인 기준으로 정리했어요</li><p><b>버그 수정</b></p><li>iPhone 라이브 액티비티 아이콘을 못 찾았을 때 메뉴 막대를 잘라 낸 그림이 찌그러져 보이던 문제</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.0.0/Dimple-2.0.0.zip" length="10000560" type="application/octet-stream" sparkle:edSignature="ISs6JWtohSC2ip/Fy8bhBy5JU7pekKs0pSFTgehkZEdfqLx/TsV1+PCJi9lcVSWXHbKwNXTz3WPMsqrgbQ+pDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.0.0/Dimple1200009-1200008.delta" sparkle:deltaFrom="1200008" length="188874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="FJB+KsUd56bnSxGeTX+j6QVT7Yir2nvzCeruQLeNFk9ycWswTR4Zb2sqamPxzdFoFEHjylpZ8k1Rdu78Rlo7Ag=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.0.0/Dimple1200009-1200007.delta" sparkle:deltaFrom="1200007" length="258766" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="56vN5zueEZyAqRfmYuBCzOW347QhqjPBlhrMmK6Ii5Jhct/abkSbLVc6FOISWYR4vkGe7Pz1ab3k/wr/qjGwCg=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.0.0/Dimple1200009-1200006.delta" sparkle:deltaFrom="1200006" length="335802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="8xnF1AfHgC5lJ7pzg0DFMuiy0Mt4VDykd/kdFsAmRvUdMuoY8or0LfHRwtfuMiplkyBOGgzoScP8mVx/b8SOCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>2.0.0</title>
             <pubDate>Wed, 28 Oct 2026 18:09:17 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1200008</sparkle:version>
