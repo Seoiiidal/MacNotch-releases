@@ -3,6 +3,22 @@
     <channel>
         <title>Dimple</title>
         <item>
+            <title>2.2.0</title>
+            <pubDate>Thu, 29 Oct 2026 21:34:18 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1202001</sparkle:version>
+            <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>V2.2.0 Beta1 — 실험실 팬 속도** (2026-10-29)</h3><p><b>새 기능</b></p><li>실험실 › 팬 속도 — 팬을 자동 · 고정 · 온도 따라 · 최대(10분 뒤 자동)로 바꿔요. 팬마다 지금 RPM과 최소~최대 범위를 보여 줘요</li><li>온도 따라 — CPU · GPU · 높은 쪽 중 센서를 고르고, &#x27;이 온도부터 올리기&#x27;와 &#x27;이 온도에서 최대&#x27; 두 점 사이에서 고르게 올라가요</li><li>속도를 바꾸려면 처음 한 번 관리자 암호로 도우미를 설치해요 (실험실 › 팬 속도 › 설치). 지금 속도 보기는 설치 없이도 돼요. [지우기]로 남김없이 지울 수 있어요</li><li>Bag 시스템 모니터 아래 줄에 팬 RPM — 누르면 최대 ↔ 자동</li><li>팬이 있는 Apple Silicon Mac 모두(M1~M6 · Pro · Max · Ultra) — 칩마다 키를 실행할 때 읽어 맞춰요. 팬이 없는 Mac에는 보이지 않아요</li><p><b>안전</b></p><li>실험을 끄거나, Dimple을 종료 · 업데이트하거나, 잠자기에 들어가거나, Dimple이 멈춰 30초 동안 신호가 없으면 macOS 자동 조절로 돌아가요</li><li>수동인 동안 CPU · GPU가 95°C를 넘으면 자동으로 돌리고 노치로 알려요. 속도는 그 Mac 팬의 최소~최대 안에서만</li><p><b>개선</b></p><li>음악 · 영상을 재생할 때 노치 화면이 파형이 바뀔 때마다 크기를 다시 계산하지 않아요 — 전력을 덜 써요</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.0-b1/Dimple-2.2.0-b1.zip" length="12186762" type="application/octet-stream" sparkle:edSignature="xiekX1bRaUEtFtYAqi8E5Ibwqwinp92hFWHUOIvYSVMiL7EiDSJBH6m7DVRiuR7PyXDPjas1RuxCholXRwXdAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.0-b1/Dimple1202001-1201019.delta" sparkle:deltaFrom="1201019" length="647670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="dnbJDZLntChKmVFNjQsSYZWfz5e0UNxSqjx9kpYQNEsXEznaOdR2vOt0jb2xH5wxvi7vlE4Q5xK7kFuvS5ByCQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.0-b1/Dimple1202001-1201018.delta" sparkle:deltaFrom="1201018" length="650822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="4Vp2gImbC5h2JiwmJXHS4FTrivrHOyZQxrk++OZ4aMTFzG8zW6yYXvIrccfs3e1/j6Lc0yOGcAG2e5f1Hof0DQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.0-b1/Dimple1202001-1201017.delta" sparkle:deltaFrom="1201017" length="647162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="t5AqNlr01CLJsWHYrEISv7ciQbiJ5GoWqXj8IpSCddChiZ3nWH6IkJFhcgq9yWzQHEFnZXOKPapz1ZJW3xz+CQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.1.1</title>
             <pubDate>Thu, 29 Oct 2026 20:25:03 +0900</pubDate>
             <sparkle:version>1201019</sparkle:version>
