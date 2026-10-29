@@ -4,6 +4,21 @@
         <title>Dimple</title>
         <item>
             <title>2.1.1</title>
+            <pubDate>Thu, 29 Oct 2026 20:25:03 +0900</pubDate>
+            <sparkle:version>1201019</sparkle:version>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><p><b>&gt; 정식 2.1.0에서 바뀐 점이에요.</b></p><p><b>개선</b></p><li>빠른 추가가 &#x27;두 시 반&#x27; · &#x27;세시&#x27; · &#x27;열한 시&#x27; 같은 우리말 수, &#x27;오후 · 오전 중 · 낮 · 새벽&#x27;처럼 때만 말한 문장, 영어 &#x27;3pm&#x27; · &#x27;at 3&#x27;도 읽어요</li><li>시각을 못 찾아 Dimple이 정했으면 카드에 한 줄로 알려 줘요 — &#x27;시각을 못 찾아 10:00 시작으로 정했어요&#x27;</li><li>캘린더 일정을 누르면 위젯 칸 안에 상세 — 날짜와 시간 · 장소 · 캘린더 · 메모 · 링크 · [참여] · [캘린더에서 열기]. 우클릭으로 캘린더에서 열기 · 참여 · 장소 복사, 날짜 줄 우클릭으로 &#x27;캘린더에서 이 날 보기&#x27;</li><li>캘린더 한 달 보기는 캘린더 칸 안에서 열리고 읽기 쉬워졌어요 — 주 사이 가는 선, 큰 숫자, 일정 점, 흐린 다른 달 날짜, 칸이 넉넉하면 공휴일 이름</li><li>캘린더 날짜 줄 — 토요일 파랑, 일요일 · 공휴일 빨강, 매달 1일은 &#x27;N월&#x27;과 구분선, 요일 글자를 더 또렷하게. 오늘은 Coral 테두리 원</li><li>쉬는 날이 아닌 기념일 · 다른 나라 공휴일은 빨강 대신 이름만 흐리게 (마우스를 올리면 이름)</li><li>녹음을 문서 폴더의 &#x27;Dimple 녹음&#x27;에 저장해요 — iCloud &#x27;데스크탑 및 문서 폴더&#x27;를 켜 두면 다른 기기에서도 보여요. 음악 폴더의 예전 녹음은 처음 한 번 저절로 옮겨요</li><li>Bag 위쪽 — 고른 쪽(Bag · 트레이)만 흰 굵은 글자, 다른 버튼은 마우스를 올릴 때만 옅은 상자</li><li>한국어 노래인데 영어 발음(로마자) 가사만 있는 곡은 하루마다 다시 찾아 한글 가사가 올라오면 저절로 바꿔요</li><li>설정 정리 — 단축어 &#x27;열&#x27;은 세그먼트로, AI 사용량 한도는 &#x27;자동&#x27;으로, 위젯 배치 슬라이더 눈금 줄 없앰, 파일 · 시스템 페이지 아래 상자에 제목</li><li>전력을 덜 써요 — Bag 가사는 줄이 바뀔 때만 다시 그리고, 노래방 채우기는 60fps까지 · 멈추면 쉬고, 멈춘 타이머는 다시 그리지 않고, 가사 기록 확인은 한 번만</li><p><b>버그 수정</b></p><li>빠른 추가가 말한 시각 대신 오전 10시로 들어가던 문제 (엔터를 바로 누르면 마지막 글자가 빠졌어요)</li><li>&#x27;2시간 회의&#x27;가 오후 2시로 들어가던 문제 — 이제 2시간짜리 일정</li><li>캘린더에서 고른 날에 + 를 눌러도 날짜 없는 문장이 오늘로 들어가던 문제</li><li>캘린더 한 달 보기가 몇 번 눌러야 열리거나 다시 열리던 문제, 돌아올 때 날짜 줄이 흔들리던 움직임</li><li>업데이트 뒤 Mac 편의 스위치가 꺼지던 문제</li><li>기능 페이지에서 싱크 가사 · 단축어를 펼치면 빈 &#x27;Bag&#x27; 상자가 보이던 문제</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.1/Dimple-2.1.1.zip" length="12125741" type="application/octet-stream" sparkle:edSignature="pPVgSQNCVm6rpacQ3ZRxYZEplWeci8vrwtE3PMeurZLuIYN+7WEA/CbaXXplAwd7gOUKOYLWKALzOiTjyfM5CA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.1/Dimple1201019-1201018.delta" sparkle:deltaFrom="1201018" length="257098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="wlUvNz3BE2JLiy1mFJsy0OCKK3OmR4gWw1WUZZ2R6/2onw9Zxml0g1nvlHIiv7xTM/h0Yj7El5uZB+TkvQE2Dw=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.1/Dimple1201019-1201017.delta" sparkle:deltaFrom="1201017" length="337190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="V4+58o9JoMLgVcPE5iw7jlQ2OdGXc2pPB3kvsfAZ8VR6AfKhXPYmix3j8e330EwN8tA+pS/A/gUUGYZbkHP5Cw=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.1.1/Dimple1201019-1201016.delta" sparkle:deltaFrom="1201016" length="391250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="kkBSb64ZC17J8v2TgBXm9w2Ir4/nhhvzfaouHeuoCLH9F+iR7pJqV2TI9HbWob/nUNuBMgXNfdIEVA0GkVzEDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>2.1.1</title>
             <pubDate>Thu, 29 Oct 2026 20:05:26 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1201018</sparkle:version>
