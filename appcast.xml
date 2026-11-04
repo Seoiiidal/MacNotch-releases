@@ -4,6 +4,22 @@
         <title>Dimple</title>
         <item>
             <title>2.2.1</title>
+            <pubDate>Thu, 05 Nov 2026 00:19:52 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1202013</sparkle:version>
+            <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>V2.2.1 Beta3 — 스크린샷 복사 개선 · 화면 기록 버튼 고침** (2026-11-05)</h3><p><b>개선</b></p><li>스크린샷 자동 복사 — ⌘⇧3 · 4 · 5로 찍으면 오른쪽 아래 미리보기가 떠 있는 동안 바로 복사해요. 원본 해상도 그대로 들어가고, 붙여 넣을 때 작아지지 않아요</li><p><b>버그 수정</b></p><li>macOS 27.3에서 메뉴 막대에 새로 생긴 화면 기록 · 녹음 버튼(&#x27;클릭하여 화면 기록 중단&#x27;)이 노치에 iPhone 라이브 액티비티(&#x27;스크린샷 · iPhone&#x27;)로 뜨던 문제 — 이제 iPhone에서 온 라이브 액티비티만 보여요</li><h3>V2.2.1 Beta2 — 가사 싱크 편집 창 열림 고침** (2026-11-05)</h3><p><b>버그 수정</b></p><li>가사 싱크 편집 창이 뜨자마자 닫혀서 설정 › 실험실 [열기] · Bag 가사 [줄마다]를 눌러도 아무 일 없던 문제</li><h3>V2.2.1 Beta1 — 가사 싱크 편집 · Mac 상태 승급** (2026-11-04)</h3><p><b>새 기능</b></p><li>실험실 **가사 싱크 편집** — 가사가 줄마다 어긋나는 곡을 직접 맞춰요. Bag 가사 위젯의 [줄마다] 버튼을 누르면 따로 뜨는 편집 창에서, 노래를 들으며 **Space**로 줄마다 찍고 **← →**로 0.1초씩 다듬어요(**⇧** = 그 줄부터 끝까지, 2절부터 밀린 곡). 더블클릭하면 그 줄 1초 앞부터 다시 들어요. 저장하면 노치 · Bag 가사에 바로 적용돼요</li><li>시간 없는 가사만 있는 곡도 편집 창에서 찍어 싱크 가사로 만들 수 있어요</li><li>지금은 이 Mac에만 저장돼요. 다른 Dimple 사용자와 싱크를 나누는 기능은 다음 베타부터예요 (가사 글자는 보내지 않고 시각만)</li><li>**잠자기 방지**가 실험실을 졸업해 늘 켜져 있어요 — Bag 컵 버튼을 누르면 **30분 · 1시간 · 2시간 · 3시간 · 6시간 · 계속** 중에서 골라요</li><p><b>개선</b></p><li>**Mac 상태**가 실험실을 졸업했어요 — 설정 › Mac 편의 아래 &#x27;Mac 상태&#x27;. 기본값은 온도 · 팬 속도 · 메뉴 막대 캐릭터 켬, 속도 기준 CPU 평균. 팬 속도 도우미는 처음엔 설치돼 있지 않고, Mac 상태를 켜면 설치할지 물어요</li><li>설정 › 권한에 **팬 속도 도우미 · 화면 기록 · 자동화(음악 · Spotify)**를 다른 권한과 같은 모양으로 넣었어요 (원래 자리의 설치 버튼은 그대로)</li><p><b>버그 수정</b></p><li>macOS 27.3에서 메뉴 막대에 새로 생긴 &#x27;지금 재생 중&#x27; 알약이 노치에 iPhone 라이브 액티비티(&#x27;진행 중&#x27; · Now Playing 아이콘)로 뜨던 문제</li><li>앨범 커버나 왼쪽 아이콘이 노치 밖으로 삐져나오던 문제 — 윙 내용을 자기 칸 안에서만 그리고, 노치 모양과 같은 곡선으로 움직이게 했어요</li><p><b>---</b></p></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.1-b3/Dimple-2.2.1-b3.zip" length="12337673" type="application/octet-stream" sparkle:edSignature="W1VbRx/RrKJtHl33s+LLmq+GhEkWOV2lFLOWOgJxwNkQa/17moRIrAkkfDE3hFNqLrd5E8MpfL0ii6dS/48uDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.1-b3/Dimple1202013-1202012.delta" sparkle:deltaFrom="1202012" length="489914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="KROb9s+WpxHOEIQ3oaAL9IWb8z6+tTVmkQB1AIrnMTVU85WT+vjFQecSTBGVtV/Fsxqye0SN6oLnKkgNxgpkAQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.1-b3/Dimple1202013-1202011.delta" sparkle:deltaFrom="1202011" length="496510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="0QiC2RRL8lX/gSAGjtiDjf4NEHsoa9OiUZajcmSTuU3gS/N0WVSeu3OIqsH1w1MxOp0aUdyrC3MPScIeJ1a5CA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.1-b3/Dimple1202013-1202008.delta" sparkle:deltaFrom="1202008" length="760110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="Gc/5j8BvnefeE0eK+DcMTUJ1CO9K63hgN/mJS6zcRecbXl8DnU4MDsg3hweT5b0YkW2P+dzRrrQd+sD92tAnCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>2.2.1</title>
             <pubDate>Thu, 05 Nov 2026 00:10:46 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1202012</sparkle:version>
