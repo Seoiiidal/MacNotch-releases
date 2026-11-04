@@ -3,6 +3,22 @@
     <channel>
         <title>Dimple</title>
         <item>
+            <title>2.2.1</title>
+            <pubDate>Wed, 04 Nov 2026 12:21:54 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1202011</sparkle:version>
+            <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>V2.2.1 Beta1 — 가사 싱크 편집 · Mac 상태 승급** (2026-11-04)</h3><p><b>새 기능</b></p><li>실험실 **가사 싱크 편집** — 가사가 줄마다 어긋나는 곡을 직접 맞춰요. Bag 가사 위젯의 [줄마다] 버튼을 누르면 따로 뜨는 편집 창에서, 노래를 들으며 **Space**로 줄마다 찍고 **← →**로 0.1초씩 다듬어요(**⇧** = 그 줄부터 끝까지, 2절부터 밀린 곡). 더블클릭하면 그 줄 1초 앞부터 다시 들어요. 저장하면 노치 · Bag 가사에 바로 적용돼요</li><li>시간 없는 가사만 있는 곡도 편집 창에서 찍어 싱크 가사로 만들 수 있어요</li><li>지금은 이 Mac에만 저장돼요. 다른 Dimple 사용자와 싱크를 나누는 기능은 다음 베타부터예요 (가사 글자는 보내지 않고 시각만)</li><li>**잠자기 방지**가 실험실을 졸업해 늘 켜져 있어요 — Bag 컵 버튼을 누르면 **30분 · 1시간 · 2시간 · 3시간 · 6시간 · 계속** 중에서 골라요</li><p><b>개선</b></p><li>**Mac 상태**가 실험실을 졸업했어요 — 설정 › Mac 편의 아래 &#x27;Mac 상태&#x27;. 기본값은 온도 · 팬 속도 · 메뉴 막대 캐릭터 켬, 속도 기준 CPU 평균. 팬 속도 도우미는 처음엔 설치돼 있지 않고, Mac 상태를 켜면 설치할지 물어요</li><li>설정 › 권한에 **팬 속도 도우미 · 화면 기록 · 자동화(음악 · Spotify)**를 다른 권한과 같은 모양으로 넣었어요 (원래 자리의 설치 버튼은 그대로)</li><p><b>버그 수정</b></p><li>macOS 27.3에서 메뉴 막대에 새로 생긴 &#x27;지금 재생 중&#x27; 알약이 노치에 iPhone 라이브 액티비티(&#x27;진행 중&#x27; · Now Playing 아이콘)로 뜨던 문제</li><li>앨범 커버나 왼쪽 아이콘이 노치 밖으로 삐져나오던 문제 — 윙 내용을 자기 칸 안에서만 그리고, 노치 모양과 같은 곡선으로 움직이게 했어요</li><p><b>---</b></p></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.1-b1/Dimple-2.2.1-b1.zip" length="12329847" type="application/octet-stream" sparkle:edSignature="peJ9p643mtScOK/esG74KTXlJPSYwurGz3iLwnFzAPNZB0ST2tqCbGRC1xcvbDhLowCbRrIqyhk1npwDDwD0BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.1-b1/Dimple1202011-1202008.delta" sparkle:deltaFrom="1202008" length="735526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="enxNsWOASbcto29EaslxEFX/TSdMxn5NOSkcV9gt2qerIZgBiXQKDYdtZm1e4Cv13VHraFVzFulAoarbaY+7Cg=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.1-b1/Dimple1202011-1202007.delta" sparkle:deltaFrom="1202007" length="750034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="lmiSQwON6Bn8aiOgVYE+nJONE/UPBhMoa+6XyvpDQWiRi4kfsCEqInV3ifbp4vzvfVbgJTtYdaILte5+fySeAw=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.1-b1/Dimple1202011-1202006.delta" sparkle:deltaFrom="1202006" length="753102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="xJMCazSgRgbxWdvnMPIQXxeDgov7ZbREHthSlbKJkcnjuKQzfYd50bYMz+lN/rUHOa41QvZEd2Pb7k/TcQ00DA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.2.0</title>
             <pubDate>Mon, 02 Nov 2026 16:32:46 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
