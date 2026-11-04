@@ -4,6 +4,21 @@
         <title>Dimple</title>
         <item>
             <title>2.2.1</title>
+            <pubDate>Thu, 05 Nov 2026 03:00:56 +0900</pubDate>
+            <sparkle:version>1202019</sparkle:version>
+            <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><p><b>&gt; 정식 2.1.1에서 바뀐 점이에요.</b></p><p><b>새 기능</b></p><li>**Mac 상태** (설정 › Mac 편의 아래) — 온도 · 팬 속도 · 메뉴 막대 캐릭터를 한곳에서 다뤄요</li><li>팬 속도 조절: 자동 · 고정 · 온도 따라 · 최대 (M1 ~ M6 Pro · Max · Ultra). 팬 속도를 바꾸려면 관리자 암호로 도우미를 한 번 설치해요 — Mac 상태를 켜면 설치할지 물어요</li><li>메뉴 막대 캐릭터: Dimple 아이콘 자리에서 Mac이 바쁠수록 빨리 달려요(10% 아래에서는 쉼, 최대 초당 5장). 80°C면 땀방울, 90°C면 Coral. 누르면 Mac 상태 창(CPU · GPU · 메모리 · 온도 · 팬), 우클릭은 Dimple 메뉴. 설정에서 움직이는 모습을 미리 볼 수 있어요 (지금은 테스트 캐릭터)</li><li>온도: 시스템 모니터 위젯에 CPU · GPU · 배터리 온도, CPU 80°C를 넘으면 노치 알림</li><li>**잠자기 방지** — Bag 위쪽 컵 버튼으로 30분 · 1 · 2 · 3 · 6시간 · 계속 화면과 Mac을 깨워 둬요. 녹음 · 다운로드 중에는 저절로 잠들지 않아요</li><li>**Bag 위젯 우클릭 메뉴** — 위젯마다 맞는 메뉴: 재생 앱 열기 · 곡 정보 복사 / 일정 · 할 일 추가 · 캘린더 앱 / 클립보드 지우기 / 녹음 폴더 / 활동 모니터 등 + &#x27;○○ 설정…&#x27; · &#x27;Bag 위젯 크기 · 순서…&#x27; · &#x27;Bag에서 숨기기&#x27;</li><li>**피드백 바로 보내기** — 설정 › 피드백의 [보내기]가 메일 앱 없이 개발자에게 바로 가요 (인터넷이 안 되면 메일)</li><p><b>개선</b></p><li>싱크 가사를 훨씬 빨리 찾아요 — 가사 서버가 잠깐 응답하지 않을 때 30초씩 기다리던 것을 바로 다시 시도해요</li><li>가사 서버에서 받은 싱크 가사를 0.1초 더 일찍 보여 줘요</li><li>설정 › 권한에 팬 속도 도우미 · 화면 기록 · 자동화(음악 · Spotify)도 같은 모양으로 모았어요</li><li>노치 라이브 액티비티 여백 규칙을 하나로 — 앨범 아트 · 아이콘 · 보조 아이콘이 같은 여백, 앨범 아트 크기를 바꿔도 가장자리가 들쭉날쭉하지 않아요</li><li>비 소식 알림은 비가 시작되기 3시간 · 1시간 · 30분 전에 한 번씩만</li><p><b>버그 수정</b></p><li>macOS 27.3에서 메뉴 막대에 새로 생긴 &#x27;지금 재생 중&#x27; · 화면 기록 버튼이 노치에 iPhone 라이브 액티비티(&#x27;진행 중&#x27;)로 뜨던 문제</li><li>앨범 커버나 왼쪽 아이콘이 노치 밖으로 삐져나오던 문제</li><li>Dimple을 켤 때 macOS가 문서 폴더 접근을 확인하는 동안 멈추던 문제</li><li>Mac 상태 창의 [설정]이 아무것도 열지 않던 문제</li><p><b>---</b></p></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.1/Dimple-2.2.1.zip" length="12438007" type="application/octet-stream" sparkle:edSignature="QGo26/KvJuKxb5dfMo6vkDuovpl7jnWOD4SOfoef9iP6p57zhlJZW5jFtg/Fp/LzhNQJw7peqNZ8g1dya6BxCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.1/Dimple1202019-1202018.delta" sparkle:deltaFrom="1202018" length="269106" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="M8jNXE7hAdP77JYjUMgxb5Im+TWOfhC656lH3wY/wi5Rj67fRLPM/vvsvvIwx4ZYdOaiTZQbVtEl+va2xU0mDQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.1/Dimple1202019-1202017.delta" sparkle:deltaFrom="1202017" length="574902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="ou4JoKaD58jECVqMEMnjuL70m2eNLYnWrLIWLlw8Qn0yDOd/CVb7C1VBVQ/eqPbK+Wt+V8p7llFavWrFwHfcBg=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.1/Dimple1202019-1202016.delta" sparkle:deltaFrom="1202016" length="568322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="6FDpsfGoIjU4M3wiIy8NGwGY9CgiuPVVrKAgVMjBvjC2WIa4ZzjL6jIkYmufGyBAYp0ytxTl8ujFXimTUVAdCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>2.2.1</title>
             <pubDate>Thu, 05 Nov 2026 02:51:21 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1202018</sparkle:version>
