@@ -3,6 +3,22 @@
     <channel>
         <title>Dimple</title>
         <item>
+            <title>2.2.2</title>
+            <pubDate>Thu, 05 Nov 2026 15:10:57 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1202021</sparkle:version>
+            <sparkle:shortVersionString>2.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>V2.2.2 Beta1 — 베타 켜면 실험실 · iPhone 오표시 고침** (2026-11-05)</h3><p><b>버그 수정</b></p><li>정식 버전이 깔린 Mac에서 &#x27;베타 업데이트 받기&#x27;를 켜도 실험실이 안 보이던 문제 — 이제 켜면 바로 실험실이 보이고, 전에 켜 둔 실험도 다시 돌아요</li><li>macOS 27.3에서 Parsec · 화면 기록 · 녹음 중 노치에 &#x27;AV 제어기 · iPhone · 진행 중&#x27;이 뜨던 문제 — iPhone에서 온 라이브 액티비티만 보여 줘요</li><p><b>---</b></p></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.2-b1/Dimple-2.2.2-b1.zip" length="12439028" type="application/octet-stream" sparkle:edSignature="CnB24S+7siXNK6NifPrFusQMAqWYznFi69K8v1/fDFXI302UCj6/S6nNIJ9GD7qG+eShED9fCJe35DOePjQ/Aw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.2-b1/Dimple1202021-1202019.delta" sparkle:deltaFrom="1202019" length="474426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="tr79U1a72jB0V6LEWZ00RpU49qVQCiaOgHNUj73/kqnmuRaQcdFqSBOaiezPm217D64hlmU0BuFLZbuohADpCw=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.2-b1/Dimple1202021-1202018.delta" sparkle:deltaFrom="1202018" length="476074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="0es+pkWvYH+JNgAV/SbUV6bgrYqjr/vjXBf2vGZfVG2eFHn9hz4YAOk7YsbRmpRTMxkpBLJr5ocpr3X4sGoDCA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.2-b1/Dimple1202021-1202017.delta" sparkle:deltaFrom="1202017" length="622526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="XZyZxjcFwa1xuB/xXAZadwKq+YwlPGP4s37JybeyWY/AN0GWPBCi4nDYj+Qzh6Ehy2bovrjHitlSLGsCJKRJBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.2.1</title>
             <pubDate>Thu, 05 Nov 2026 03:00:56 +0900</pubDate>
             <sparkle:version>1202019</sparkle:version>
