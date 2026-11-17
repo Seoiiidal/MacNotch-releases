@@ -3,6 +3,22 @@
     <channel>
         <title>Dimple</title>
         <item>
+            <title>2.3.0</title>
+            <pubDate>Tue, 17 Nov 2026 14:13:02 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>2030001</sparkle:version>
+            <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>V2.3.0 Beta1 — 실험실 다이나믹 아일랜드 모양** (2026-11-17)</h3><p><b>새 기능</b></p><li>실험실 › 다이나믹 아일랜드 모양 — 카메라 노치가 없는 화면(외장 모니터 · 노치 없는 Mac)에서 노치 대신 화면 위에서 살짝 떨어진 알약 모양으로 보여요. 라이브 액티비티 · 퀵픽 · Bag은 그대로, 노치가 있는 화면은 노치 그대로예요</li><li>시스템 아일랜드와 겹치는 표시 숨기기 — 다이나믹 아일랜드가 있는 Mac에서 음악 · iPhone 라이브 액티비티를 시스템에 맡겨요 (실험을 켜면 실험실 화면에 나와요, 기본 끔)</li><p><b>개선</b></p><li>노치 크기 · 위치 계산을 한곳으로 모으고, 게시 전마다 자동 테스트로 확인해요 — 보이는 모습은 그대로예요</li><li>2.3.0부터 새 빌드 번호 체계 (Beta1 = 2030001)</li><p><b>---</b></p></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.3.0-b1/Dimple-2.3.0-b1.zip" length="12499689" type="application/octet-stream" sparkle:edSignature="Q00snkNxoIvx3OpVFKZ9lgX0Y2snqWp9wkfdwJa+YePigGqh8YTHMunsaGSS9ps1999Gqu8BuAgpunmF5iBAAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.3.0-b1/Dimple2030001-1202029.delta" sparkle:deltaFrom="1202029" length="628246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="QNOmsqc810JEDaN/Q/pfRho9rWbIYOS7ipO9ZuHFj2dm4M2ZiPY4ywUhXqKDoQ2NjR5KAfHsFW751XXYZNwMCg=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.3.0-b1/Dimple2030001-1202028.delta" sparkle:deltaFrom="1202028" length="622942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="/Hwb8wm1W6GknCIrd+ujx0ff9gISFP0HmTSnewuYXcEaopagQ+s+kUW3s1LuwOPMBoWaO8aTYMT2i6yVSyajBw=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.3.0-b1/Dimple2030001-1202027.delta" sparkle:deltaFrom="1202027" length="629334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="jPDI0O24knKWOpdMmm2+qxD5nk35JYQ8rSMSIVQTFzmprNidQt6fQhYCo9ST75SROVQ9IjLuEkmubDk8apMOCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.2.2</title>
             <pubDate>Tue, 17 Nov 2026 13:29:20 +0900</pubDate>
             <sparkle:version>1202029</sparkle:version>
