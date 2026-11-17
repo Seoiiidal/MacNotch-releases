@@ -4,6 +4,22 @@
         <title>Dimple</title>
         <item>
             <title>2.3.0</title>
+            <pubDate>Tue, 17 Nov 2026 16:19:28 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>2030005</sparkle:version>
+            <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>V2.3.0 Beta5 — 아일랜드 위로 올리기** (2026-11-17)</h3><p><b>개선</b></p><li>설정 › 모양 › 위치의 아일랜드 세로 위치를 − 쪽으로도 — −5까지 올리면 화면 맨 위에 붙어요</li><h3>V2.3.0 Beta4 — 설정 창 Bag 닫힘 · 가상 노치 다듬기** (2026-11-17)</h3><p><b>개선</b></p><li>가상 노치: &#x27;늘 보이기&#x27;를 꺼도 화면 위 가운데로 마우스를 가져가면 나타나 다른 Mac처럼 써요 (전엔 꺼 두면 아무것도 안 됐음). 설정 › 모양 › 가상 노치의 &#x27;사용&#x27; · &#x27;평소에는 숨기기&#x27;를 &#x27;늘 보이기&#x27; 하나로 합쳤어요</li><li>가상 노치 크기 범위를 넓혔어요 — 높이 12 ~ 64, 너비 최대 360 · 가로 위치를 옮길 수 있어요</li><li>실험실 › 다이나믹 아일랜드 모양을 켜면 설정 문구의 &#x27;노치&#x27;를 &#x27;아일랜드&#x27;로 바꿔 보여 줘요 (카메라 노치를 말하는 문구는 그대로) · 아일랜드를 위에서 더 내릴 수 있어요</li><p><b>버그 수정</b></p><li>설정 창을 연 채 노치를 눌러 연 Bag이 마우스를 빼거나 다른 곳을 눌러도 닫히지 않던 문제 — 이제 평소처럼 닫혀요</li><li>Bag 설정을 바꾸며 바로 확인하는 동안에만 Bag이 열려 있어요. Bag 위로 마우스를 옮기면 그때부터는 평소처럼 나가면 닫혀요</li><h3>V2.3.0 Beta3 — 놓친 알림 모아 보기** (2026-11-17)</h3><p><b>새 기능</b></p><li>전체 화면 · 화면이 꺼진 동안 지나간 다운로드 · 회의 · 할 일 · 배터리 알림을 끝난 뒤 한 번에 보여 줘요 — 노치에 &#x27;놓친 알림 3&#x27;, 5초 뒤 사라지고 다시 안 떠요. 음악 · 볼륨/밝기 · 블루투스는 넣지 않아요</li><li>설정 › 라이브 액티비티 › 놓친 알림 모아 보기 (기본 켬)</li><p><b>개선</b></p><li>전체 화면에서 숨긴 할 일 알림이 끝난 뒤 따로 늦게 뜨지 않고 놓친 알림에 함께 모여요</li><h3>V2.3.0 Beta2 — 실험실 드롭 액션** (2026-11-17)</h3><p><b>새 기능</b></p><li>실험실 › 드롭 액션 — 파일을 노치로 끌면 AirDrop · 트레이 · 공유 아래에 끌고 있는 파일에 맞는 칸만 더 나와요</li><li>압축: 늘 — 하나면 &#x27;이름.zip&#x27;, 여럿이면 &#x27;보관 파일.zip&#x27;</li><li>이미지 형식 바꾸기: 모두 이미지일 때 — JPEG · PNG · HEIC 중 실험실에서 고른 형식으로</li><li>PDF 합치기: PDF 2개 이상일 때 — 끈 순서대로 &#x27;합친 PDF.pdf&#x27;</li><li>결과는 원본 옆에 새 파일로 만들고 원본은 그대로예요. 끝나면 노치에 [Finder에서 보기]</li><h3>V2.3.0 Beta1 — 실험실 다이나믹 아일랜드 모양** (2026-11-17)</h3><p><b>새 기능</b></p><li>실험실 › 다이나믹 아일랜드 모양 — 카메라 노치가 없는 화면(외장 모니터 · 노치 없는 Mac)에서 노치 대신 화면 위에서 살짝 떨어진 알약 모양으로 보여요. 라이브 액티비티 · 퀵픽 · Bag은 그대로, 노치가 있는 화면은 노치 그대로예요</li><li>시스템 아일랜드와 겹치는 표시 숨기기 — 다이나믹 아일랜드가 있는 Mac에서 음악 · iPhone 라이브 액티비티를 시스템에 맡겨요 (실험을 켜면 실험실 화면에 나와요, 기본 끔)</li><p><b>개선</b></p><li>노치 크기 · 위치 계산을 한곳으로 모으고, 게시 전마다 자동 테스트로 확인해요 — 보이는 모습은 그대로예요</li><li>2.3.0부터 새 빌드 번호 체계 (Beta1 = 2030001)</li><p><b>---</b></p></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.3.0-b5/Dimple-2.3.0-b5.zip" length="12552962" type="application/octet-stream" sparkle:edSignature="lp7sn4ZE6UDzJgnWGaXcSdwmgTVzUZ7uGUzcf5cHo/Sq+XlCpKLhOYhLRYv0gOvpja12qytcrO5a1fVdpfJiAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.3.0-b5/Dimple2030005-2030004.delta" sparkle:deltaFrom="2030004" length="285306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="Q4NBCKZNHtzF3FgoyWdnGcjaI9ZNUmKKtfg9uX58ACJk4P+Ii9MMxSPZ6HBmF+gtabgH+8fG8cZ9+dDEKHZjBg=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.3.0-b5/Dimple2030005-2030003.delta" sparkle:deltaFrom="2030003" length="574778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="+Jd4645K3sF9p+8BSYSxO5WTUh+lUgO8vWkvfiry9Ym5R0z5XUjaQuI6qwr3I/9g01vKOlHh6fZSgD/IVEzoCg=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.3.0-b5/Dimple2030005-2030002.delta" sparkle:deltaFrom="2030002" length="622718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="tUSAdaJthABmt4BRcET/KHnYIhRt93XtpKbcLx1d3aZ3kGmW3dt5+DW1fHVzT86tcQqgbM1SzStvpf0wwaGYCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>2.3.0</title>
             <pubDate>Tue, 17 Nov 2026 15:52:00 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>2030004</sparkle:version>
