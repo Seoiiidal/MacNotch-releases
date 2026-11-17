@@ -4,6 +4,21 @@
         <title>Dimple</title>
         <item>
             <title>2.2.2</title>
+            <pubDate>Tue, 17 Nov 2026 13:29:20 +0900</pubDate>
+            <sparkle:version>1202029</sparkle:version>
+            <sparkle:shortVersionString>2.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><p><b>&gt; 정식 2.2.1에서 바뀐 점이에요.</b></p><p><b>새 기능</b></p><li>**키보드 단축키** (설정 › 동작) — 어느 앱에서든 Bag 열기 · 닫기, 빠른 추가 문장 칸으로 바로. 기본은 &#x27;단축키 없음&#x27;이에요</li><li>**`dimple://` 주소** — 단축어 · Raycast · Stream Deck에서 `dimple://bag` · `dimple://add?text=내일 3시 회의` · `dimple://timer?m=25` · `dimple://awake?h=1`(`h=0`이면 끄기). 빠른 추가는 확인 화면까지만 열어요</li><li>**설정 옮기기** (설정 › 업데이트 · 정보) — 파일로 내보내고 다른 Mac에서 가져오기. 노치 크기 보정 · 팬 · 장치별 EQ처럼 Mac마다 다른 값은 빼요</li><p><b>개선</b></p><li>손쉬운 사용 — 시스템 설정 › 손쉬운 사용 › 디스플레이의 &#x27;동작 줄이기&#x27;를 켜면 노치 · Bag이 튕기지 않고 짧게 바뀌고, &#x27;투명도 줄이기&#x27;를 켜면 글래스 노치 · Bag을 불투명하게 그려요 (Dimple 설정값은 그대로)</li><li>VoiceOver가 재생 · 이전 곡 · 다음 곡 · 셔플 · 반복 · 설정 · 잠자기 방지 · 트레이 비우기 · 타이머 버튼을 이름으로 읽어요</li><li>메뉴 막대 캐릭터가 바쁜 정도에 따라 더 뚜렷하게 빨라져요 — 최대 초당 5장 → 12장</li><li>캐릭터 온도 4단계 — 60°C 땀 한 방울 · 70°C 두 방울 · 80°C Coral · 90°C 빨강</li><li>캐릭터 팬 4단계 — 이 Mac 팬의 최소 ~ 최대 속도 기준 30% 한 줄 · 60% 두 줄 · 90% 세 줄 · 최대 네 줄. MacBook은 팬이 멈춘 0rpm을 0%로 잡아요</li><li>일부 Mac에서 음악을 틀어도 노치에 안 뜨는 문제를 찾으려고, 재생 소식이 어디까지 왔는지 기록을 남겨요 (이 Mac 안에만 저장)</li><p><b>버그 수정</b></p><li>설정에서 기능별 Bag을 껐다 켜면 위쪽 노치가 좌우로 왔다 갔다 하던 문제</li><li>macOS 27.3에서 Parsec · 화면 기록 · 녹음 중 노치에 &#x27;AV 제어기 · iPhone · 진행 중&#x27;이 뜨던 문제</li><li>정식 버전에서 &#x27;베타 업데이트 받기&#x27;를 켜도 실험실이 안 보이던 문제</li><p><b>---</b></p></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.2/Dimple-2.2.2.zip" length="12492257" type="application/octet-stream" sparkle:edSignature="xUpGRT0/g2Qrmgp+zEbAJTPWekhn+Z5ly+eXQr+Kur8JlRRLMfNEZqCksKrjgg6QRtKmyCmwL9nO9o2ZGWASCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.2/Dimple1202029-1202028.delta" sparkle:deltaFrom="1202028" length="315054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="c6kOXPR5jpSZm9aLj5OdSigJndshNRzo//2Ng9LFjq9YLbP4HZuO5ECSJgOKBxBUEoLMOsH3wfpyYbW8TsY/CA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.2/Dimple1202029-1202027.delta" sparkle:deltaFrom="1202027" length="448658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="ARsDkpdzsSGWV3cUlsGgeejEBd7kcHVt0ghNNic9k0tYR2Izs/CoXnQzsyu7HImGVzgTP3RqQdYVCPKjMc3pDA=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.2.2/Dimple1202029-1202026.delta" sparkle:deltaFrom="1202026" length="461318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="+Il1F/SgAQFByqLU/4s8I+rIPAqqtcp4lNvhZq0AKwKpl5lcQaK/Q9oa+R0u803iM0ev3ev6t4MYQ98hsmesAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>2.2.2</title>
             <pubDate>Fri, 13 Nov 2026 18:10:22 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>1202028</sparkle:version>
