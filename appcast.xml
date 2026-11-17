@@ -4,6 +4,22 @@
         <title>Dimple</title>
         <item>
             <title>2.3.0</title>
+            <pubDate>Tue, 17 Nov 2026 14:54:01 +0900</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>2030003</sparkle:version>
+            <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>V2.3.0 Beta3 — 놓친 알림 모아 보기** (2026-11-17)</h3><p><b>새 기능</b></p><li>전체 화면 · 화면이 꺼진 동안 지나간 다운로드 · 회의 · 할 일 · 배터리 알림을 끝난 뒤 한 번에 보여 줘요 — 노치에 &#x27;놓친 알림 3&#x27;, 5초 뒤 사라지고 다시 안 떠요. 음악 · 볼륨/밝기 · 블루투스는 넣지 않아요</li><li>설정 › 라이브 액티비티 › 놓친 알림 모아 보기 (기본 켬)</li><p><b>개선</b></p><li>전체 화면에서 숨긴 할 일 알림이 끝난 뒤 따로 늦게 뜨지 않고 놓친 알림에 함께 모여요</li><h3>V2.3.0 Beta2 — 실험실 드롭 액션** (2026-11-17)</h3><p><b>새 기능</b></p><li>실험실 › 드롭 액션 — 파일을 노치로 끌면 AirDrop · 트레이 · 공유 아래에 끌고 있는 파일에 맞는 칸만 더 나와요</li><li>압축: 늘 — 하나면 &#x27;이름.zip&#x27;, 여럿이면 &#x27;보관 파일.zip&#x27;</li><li>이미지 형식 바꾸기: 모두 이미지일 때 — JPEG · PNG · HEIC 중 실험실에서 고른 형식으로</li><li>PDF 합치기: PDF 2개 이상일 때 — 끈 순서대로 &#x27;합친 PDF.pdf&#x27;</li><li>결과는 원본 옆에 새 파일로 만들고 원본은 그대로예요. 끝나면 노치에 [Finder에서 보기]</li><h3>V2.3.0 Beta1 — 실험실 다이나믹 아일랜드 모양** (2026-11-17)</h3><p><b>새 기능</b></p><li>실험실 › 다이나믹 아일랜드 모양 — 카메라 노치가 없는 화면(외장 모니터 · 노치 없는 Mac)에서 노치 대신 화면 위에서 살짝 떨어진 알약 모양으로 보여요. 라이브 액티비티 · 퀵픽 · Bag은 그대로, 노치가 있는 화면은 노치 그대로예요</li><li>시스템 아일랜드와 겹치는 표시 숨기기 — 다이나믹 아일랜드가 있는 Mac에서 음악 · iPhone 라이브 액티비티를 시스템에 맡겨요 (실험을 켜면 실험실 화면에 나와요, 기본 끔)</li><p><b>개선</b></p><li>노치 크기 · 위치 계산을 한곳으로 모으고, 게시 전마다 자동 테스트로 확인해요 — 보이는 모습은 그대로예요</li><li>2.3.0부터 새 빌드 번호 체계 (Beta1 = 2030001)</li><p><b>---</b></p></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.3.0-b3/Dimple-2.3.0-b3.zip" length="12548409" type="application/octet-stream" sparkle:edSignature="0RTQOOQHfXeCpZHDoA6OYaglvfSfUdh1ir2BVbiBF5AsGe303uCOE6IeLO4qFP5xJMO9bPlUOXGO3urG4h87DA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.3.0-b3/Dimple2030003-2030002.delta" sparkle:deltaFrom="2030002" length="521810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="GcdDNWnT+T3KcmUDeLuaFTlkIgsuKP2auGPjJh8XFphBy+BVQWs4qD8KCk2sZQjGFPyohwVIcsc+ocn6Nay6Aw=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.3.0-b3/Dimple2030003-2030001.delta" sparkle:deltaFrom="2030001" length="719662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="v7Qw7xmMFq+IWvBXd6Bc6vE9wMdlPUhgb9a2DUD33rmDqQfQXqOnWqiM7bYW81rJnT3wSoTi3iJmshg9jC2TCQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/Dimple/releases/download/v2.3.0-b3/Dimple2030003-1202029.delta" sparkle:deltaFrom="1202029" length="799726" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="ko,Base" sparkle:edSignature="nOrGXgCAc6It2d/3w9d5uZYj6kUunJMwkLaXOe0veu0KrODQyDD/qgCp/5G72clOeUr18MczRlkqMrqSqlswCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>2.3.0</title>
             <pubDate>Tue, 17 Nov 2026 14:37:45 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>2030002</sparkle:version>
